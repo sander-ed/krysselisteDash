@@ -459,4 +459,4 @@ def show_user (user_selected):
 
 # :-------------------------------
 # Run the App
-app.run_server(debug = True, port = 8052)
+app.run_server(debug = True)
