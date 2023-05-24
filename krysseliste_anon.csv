@@ -1,0 +1,2423 @@
+tidspunkt;bruker;vare
+0;2023-05-20 18:37:00;Martin;Fanta-Sprite
+1;2023-05-20 18:33:00;Lucas;Coca Cola Zero 0,33
+2;2023-05-20 18:25:00;Ella;Olden Eple
+3;2023-05-20 17:12:00;Lucas;San Pellegrino
+4;2023-05-20 16:24:00;Jonas;Coca Cola Zero 0,33
+5;2023-05-20 16:24:00;Jonas;Coca Cola Zero 0,33
+6;2023-05-20 15:54:00;Sebastian;Hansa Pils 0,33
+7;2023-05-20 15:54:00;Sebastian;Hansa Pils 0,33
+8;2023-05-20 12:42:00;Ella;San Pellegrino
+9;2023-05-20 11:46:00;Emma;San Pellegrino
+10;2023-05-19 19:57:00;Lucas;Coca Cola Zero 0,33
+11;2023-05-19 18:25:00;Emma;Coca Cola Zero 0,33
+12;2023-05-19 16:14:00;Emma;Coca Cola Zero 0,33
+13;2023-05-19 15:58:00;Benjamin;Coca Cola Zero 0,33
+14;2023-05-19 15:57:00;Lucas;San Pellegrino
+15;2023-05-19 13:50:00;Ella;Olden Eple
+16;2023-05-19 12:33:00;Emma;Olden Eple
+17;2023-05-19 11:41:00;Martin;Fanta-Sprite
+18;2023-05-19 11:41:00;Maria;Fanta-Sprite
+19;2023-05-19 08:14:00;Emma;Fanta-Sprite
+20;2023-05-18 18:13:00;Ella;San Pellegrino
+21;2023-05-18 17:17:00;Lucas;San Pellegrino
+22;2023-05-18 16:29:00;Victoria;San Pellegrino
+23;2023-05-18 14:34:00;Ella;Hansa Pils 0,33
+24;2023-05-18 14:33:00;Lucas;Coca Cola Zero 0,33
+25;2023-05-18 13:19:00;Emma;Olden Eple
+26;2023-05-18 13:05:00;Ella;Olden Eple
+27;2023-05-17 11:19:00;Victoria;San Pellegrino
+28;2023-05-17 09:16:00;Sander;Smirnoff ice original
+29;2023-05-17 09:16:00;Sander;Smirnoff ice original
+30;2023-05-17 09:16:00;Sander;Smirnoff ice original
+31;2023-05-17 09:16:00;Sander;Breezer
+32;2023-05-17 09:16:00;Sander;Breezer
+33;2023-05-17 09:16:00;Sander;Hansa Pils 0,33
+34;2023-05-17 09:16:00;Sander;Hansa Pils 0,33
+35;2023-05-17 09:16:00;Sander;Hansa Pils 0,33
+36;2023-05-16 19:29:00;Benjamin;Hard Seltzer Mango
+37;2023-05-16 19:29:00;Benjamin;Hard Seltzer Mango
+38;2023-05-16 19:19:00;Ella;Olden Eple
+39;2023-05-16 16:53:00;Ella;Olden Eple
+40;2023-05-16 16:12:00;Maria;Fanta-Sprite
+41;2023-05-16 15:45:00;Ella;Olden Eple
+42;2023-05-16 13:14:00;Emma;Smirnoff ice tropical
+43;2023-05-16 13:14:00;Emma;Smirnoff ice original
+44;2023-05-16 13:14:00;Emma;Hansa Pils 0,33
+45;2023-05-16 13:14:00;Emma;Hansa Pils 0,33
+46;2023-05-16 13:14:00;Emma;Hansa Pils 0,33
+47;2023-05-16 13:14:00;Emma;Hansa Pils 0,33
+48;2023-05-16 13:13:00;Ella;Fanta-Sprite
+49;2023-05-16 12:06:00;Lucas;San Pellegrino
+50;2023-05-16 12:06:00;Benjamin;Olden Eple
+51;2023-05-16 09:03:00;Ella;San Pellegrino
+52;2023-05-15 18:28:00;Thea;San Pellegrino
+53;2023-05-15 17:34:00;Lucas;Coca Cola Zero 0,33
+54;2023-05-15 16:44:00;Emma;Fanta-Sprite
+55;2023-05-15 16:31:00;Emma;Fanta-Sprite
+56;2023-05-15 16:29:00;Lucas;San Pellegrino
+57;2023-05-15 09:36:00;Maria;Monster hvit 0,5
+58;2023-05-14 19:14:00;Ella;Olden Eple
+59;2023-05-14 13:19:00;Emma;Coca Cola Zero 0,33
+60;2023-05-13 23:22:00;Mathias;San Pellegrino
+61;2023-05-13 22:59:00;Lucas;Coca Cola Zero 0,33
+62;2023-05-13 22:01:00;Maja;Fanta-Sprite
+63;2023-05-13 21:47:00;Ingrid;Fanta-Sprite
+64;2023-05-13 21:39:00;Benjamin;Hansa Pils 0,33
+65;2023-05-13 21:31:00;Peder;Fanta-Sprite
+66;2023-05-13 21:31:00;Peder;Fanta-Sprite
+67;2023-05-13 21:05:00;Maja;Hansa Premium 0,33
+68;2023-05-13 18:09:00;Victoria;San Pellegrino
+69;2023-05-13 17:11:00;Lucas;San Pellegrino
+70;2023-05-13 17:11:00;Lucas;Fanta-Sprite
+71;2023-05-13 14:41:00;Ella;Olden Eple
+72;2023-05-13 14:40:00;Benjamin;Fanta-Sprite
+73;2023-05-13 11:47:00;Ella;Olden Eple
+74;2023-05-13 11:23:00;Maria;Fanta-Sprite
+75;2023-05-12 22:11:00;Lucas;Coca Cola Zero 0,33
+76;2023-05-12 21:35:00;Emma;San Pellegrino
+77;2023-05-12 21:32:00;Sebastian;San Pellegrino
+78;2023-05-12 21:02:00;Herman;Fanta-Sprite
+79;2023-05-12 21:02:00;Lucas;Fanta-Sprite
+80;2023-05-12 21:00:00;Victoria;San Pellegrino
+81;2023-05-12 21:00:00;Sebastian;Fanta-Sprite
+82;2023-05-12 20:59:00;Maria;Olden Eple
+83;2023-05-12 19:58:00;Aksel;Hansa Pils 0,33
+84;2023-05-12 19:58:00;Aksel;Hansa Pils 0,33
+85;2023-05-12 19:58:00;Aksel;Hansa Pils 0,33
+86;2023-05-12 19:58:00;Aksel;Hansa Pils 0,33
+87;2023-05-12 18:01:00;Aksel;San Pellegrino
+88;2023-05-12 18:01:00;Aksel;San Pellegrino
+89;2023-05-12 18:01:00;Ingrid;Monster hvit 0,5
+90;2023-05-12 18:01:00;Ingrid;Smirnoff ice original
+91;2023-05-12 15:19:00;Ella;Fanta-Sprite
+92;2023-05-12 12:55:00;Emma;Fanta-Sprite
+93;2023-05-12 12:44:00;Lucas;San Pellegrino
+94;2023-05-12 12:41:00;Ella;Olden Eple
+95;2023-05-12 09:06:00;Ella;Olden Eple
+96;2023-05-11 20:53:00;Ella;Olden Eple
+97;2023-05-11 20:43:00;Lucas;San Pellegrino
+98;2023-05-11 20:15:00;Victoria;San Pellegrino
+99;2023-05-11 20:14:00;Lucas;Fanta-Sprite
+100;2023-05-11 17:26:00;Ella;Olden Eple
+101;2023-05-11 16:39:00;Benjamin;Fanta-Sprite
+102;2023-05-11 12:39:00;Filip;Fanta-Sprite
+103;2023-05-11 12:39:00;Ingrid;Monster hvit 0,5
+104;2023-05-11 12:15:00;Maria;Fanta-Sprite
+105;2023-05-11 12:15:00;Maria;Fanta-Sprite
+106;2023-05-11 12:07:00;Emma;Coca Cola Zero 0,33
+107;2023-05-11 09:55:00;Ella;San Pellegrino
+108;2023-05-10 22:32:00;Ella;Hansa Pils 0,33
+109;2023-05-10 22:32:00;Ella;Hard Seltzer Grapefruit
+110;2023-05-10 20:17:00;Lucas;Fanta-Sprite
+111;2023-05-10 16:38:00;Lucas;San Pellegrino
+112;2023-05-10 16:22:00;Emma;Coca Cola Zero 0,33
+113;2023-05-10 16:22:00;Benjamin;Fanta-Sprite
+114;2023-05-10 16:22:00;Victoria;San Pellegrino
+115;2023-05-10 15:56:00;Ella;Hansa Pils 0,33
+116;2023-05-10 14:13:00;Ella;Hansa Pils 0,33
+117;2023-05-10 14:13:00;Ella;Hansa Pils 0,33
+118;2023-05-10 14:13:00;Ella;Hansa Pils 0,33
+119;2023-05-10 14:13:00;Ella;Hansa Pils 0,33
+120;2023-05-10 14:13:00;Ella;Hansa Pils 0,33
+121;2023-05-10 14:13:00;Ella;Hansa Pils 0,33
+122;2023-05-10 13:21:00;Filip;Fanta-Sprite
+123;2023-05-10 11:47:00;Benjamin;Olden Eple
+124;2023-05-10 11:37:00;Emma;Fanta-Sprite
+125;2023-05-09 19:33:00;Lucas;San Pellegrino
+126;2023-05-09 18:13:00;Ella;Olden Eple
+127;2023-05-09 17:27:00;Lucas;Fanta-Sprite
+128;2023-05-09 16:53:00;Victoria;San Pellegrino
+129;2023-05-09 16:51:00;Benjamin;Fanta-Sprite
+130;2023-05-09 16:36:00;Ella;San Pellegrino
+131;2023-05-09 16:19:00;Jakob;Coca Cola Zero 0,33
+132;2023-05-09 12:15:00;Lucas;San Pellegrino
+133;2023-05-09 11:56:00;Ella;Olden Eple
+134;2023-05-09 09:07:00;Lucas;Monster hvit 0,5
+135;2023-05-09 09:04:00;Ella;San Pellegrino
+136;2023-05-09 08:24:00;Maria;Olden Eple
+137;2023-05-08 17:06:00;Lucas;San Pellegrino
+138;2023-05-08 16:37:00;Emma;Coca Cola Zero 0,33
+139;2023-05-08 13:18:00;Ella;San Pellegrino
+140;2023-05-08 13:02:00;Lucas;Monster hvit 0,5
+141;2023-05-07 20:40:00;Lucas;Coca Cola Zero 0,33
+142;2023-05-07 16:34:00;Lucas;San Pellegrino
+143;2023-05-07 14:20:00;Lucas;Monster hvit 0,5
+144;2023-05-07 03:23:00;Andreas;Fanta-Sprite
+145;2023-05-07 02:46:00;Andreas;San Pellegrino
+146;2023-05-06 18:00:00;Benjamin;Hard Seltzer Mango
+147;2023-05-06 18:00:00;Benjamin;Hard Seltzer Mango
+148;2023-05-06 18:00:00;Benjamin;Hard Seltzer Mango
+149;2023-05-06 18:00:00;Benjamin;Hansa Pils 0,33
+150;2023-05-06 18:00:00;Benjamin;Hansa Pils 0,33
+151;2023-05-06 18:00:00;Benjamin;Hansa Pils 0,33
+152;2023-05-06 17:44:00;Oliver;Hansa Pils 0,33
+153;2023-05-06 17:44:00;Oliver;Hansa Pils 0,33
+154;2023-05-06 17:44:00;Oliver;Hansa Pils 0,33
+155;2023-05-06 17:44:00;Oliver;Hansa Pils 0,33
+156;2023-05-06 17:44:00;Oliver;Hansa Pils 0,33
+157;2023-05-06 17:33:00;Victoria;San Pellegrino
+158;2023-05-06 17:33:00;Victoria;San Pellegrino
+159;2023-05-06 16:13:00;Filip;Ginger Joe
+160;2023-05-06 16:13:00;Filip;Ginger Joe
+161;2023-05-06 16:13:00;Filip;Hard Seltzer Grapefruit
+162;2023-05-06 16:13:00;Filip;Hansa Pils 0,33
+163;2023-05-06 16:13:00;Filip;Hansa Pils 0,33
+164;2023-05-06 16:13:00;Filip;Hansa Pils 0,33
+165;2023-05-06 16:13:00;Filip;Hansa Pils 0,33
+166;2023-05-06 16:00:00;Emma;Hansa Mango IPA
+167;2023-05-06 15:41:00;Emma;Fanta-Sprite
+168;2023-05-06 13:39:00;Lucas;Monster hvit 0,5
+169;2023-05-06 13:37:00;Sebastian;Hansa Pils 0,33
+170;2023-05-06 13:02:00;Ingrid;Monster hvit 0,5
+171;2023-05-06 01:28:00;Filip;Hard Seltzer Grapefruit
+172;2023-05-06 01:28:00;Filip;Smirnoff ice original
+173;2023-05-05 15:59:00;Benjamin;Coca Cola Zero 0,33
+174;2023-05-05 13:09:00;Oliver;San Pellegrino
+175;2023-05-05 12:03:00;Benjamin;San Pellegrino
+176;2023-05-05 09:39:00;Emma;San Pellegrino
+177;2023-05-04 23:54:00;Ingrid;Smirnoff ice original
+178;2023-05-04 23:54:00;Ingrid;Hansa Pils 0,33
+179;2023-05-04 23:54:00;Peder;Hansa Pils 0,33
+180;2023-05-04 23:54:00;Peder;Hansa Pils 0,33
+181;2023-05-04 23:54:00;Peder;Hansa Pils 0,33
+182;2023-05-04 23:54:00;Peder;Hansa Pils 0,33
+183;2023-05-04 16:25:00;Emma;Hansa Pils 0,33
+184;2023-05-04 14:46:00;Ella;San Pellegrino
+185;2023-05-04 14:20:00;Ingrid;Hansa Pils 0,33
+186;2023-05-04 14:20:00;Ingrid;Hansa Pils 0,33
+187;2023-05-04 14:20:00;Peder;Hansa Pils 0,33
+188;2023-05-04 14:20:00;Peder;Hansa Pils 0,33
+189;2023-05-04 14:20:00;Ingrid;Hansa Pils 0,33
+190;2023-05-04 14:20:00;Ingrid;Hansa Pils 0,33
+191;2023-05-04 14:11:00;Peder;Hansa Pils 0,33
+192;2023-05-04 14:11:00;Amalie;Coca Cola Zero 0,33
+193;2023-05-04 13:20:00;Victoria;San Pellegrino
+194;2023-05-04 13:19:00;Peder;Smirnoff ice original
+195;2023-05-04 12:49:00;Emma;Fanta-Sprite
+196;2023-05-04 12:48:00;Ingrid;Coca Cola Zero 0,33
+197;2023-05-04 12:44:00;Oliver;Coca Cola Zero 0,33
+198;2023-05-04 12:29:00;Maja;San Pellegrino
+199;2023-05-04 10:54:00;Lucas;Monster hvit 0,5
+200;2023-05-04 10:54:00;Lucas;San Pellegrino
+201;2023-05-04 08:57:00;Ella;San Pellegrino
+202;2023-05-03 18:23:00;Ella;Hansa Pils 0,33
+203;2023-05-03 18:23:00;Filip;Ginger Joe
+204;2023-05-03 16:44:00;Ella;Hansa Pils 0,33
+205;2023-05-03 16:13:00;Oliver;San Pellegrino
+206;2023-05-03 16:13:00;Emma;San Pellegrino
+207;2023-05-03 15:09:00;Filip;Fanta-Sprite
+208;2023-05-03 14:45:00;Ella;Olden Eple
+209;2023-05-03 14:10:00;Filip;Fanta-Sprite
+210;2023-05-03 13:50:00;Maria;Fanta-Sprite
+211;2023-05-03 13:35:00;Oliver;Coca Cola Zero 0,33
+212;2023-05-03 13:33:00;Lukas;Coca Cola Zero 0,33
+213;2023-05-03 11:53:00;Maria;Fanta-Sprite
+214;2023-05-03 11:53:00;Maria;Fanta-Sprite
+215;2023-05-03 10:50:00;Ella;Olden Eple
+216;2023-05-03 09:42:00;Ingrid;Monster hvit 0,5
+217;2023-05-02 21:15:00;Lucas;Coca Cola Zero 0,33
+218;2023-05-02 18:20:00;Ella;Olden Eple
+219;2023-05-02 17:38:00;Ida;Olden Eple
+220;2023-05-02 17:18:00;Ella;Olden Eple
+221;2023-05-02 14:50:00;Sebastian;Fanta-Sprite
+222;2023-05-02 14:29:00;Andreas;Olden Eple
+223;2023-05-02 14:25:00;Maria;Coca Cola Zero 0,33
+224;2023-05-02 14:06:00;Oliver;Olden Eple
+225;2023-05-02 12:46:00;Ingrid;Monster hvit 0,5
+226;2023-05-02 12:46:00;Ingrid;Smirnoff ice original
+227;2023-05-02 11:34:00;Oliver;Coca Cola Zero 0,33
+228;2023-05-02 11:27:00;Sebastian;Fanta-Sprite
+229;2023-05-02 10:59:00;Benjamin;Olden Eple
+230;2023-05-02 10:42:00;Lucas;Monster hvit 0,5
+231;2023-05-01 20:39:00;Benjamin;Hard Seltzer Mango
+232;2023-05-01 18:38:00;Lucas;Fanta-Sprite
+233;2023-05-01 18:14:00;Andreas;Olden Eple
+234;2023-05-01 17:24:00;Benjamin;Fanta-Sprite
+235;2023-05-01 16:55:00;Martin;Fanta-Sprite
+236;2023-05-01 14:51:00;Maria;Fanta-Sprite
+237;2023-05-01 14:51:00;Maria;Fanta-Sprite
+238;2023-05-01 12:57:00;Lucas;Coca Cola Zero 0,33
+239;2023-05-01 12:57:00;Benjamin;Fanta-Sprite
+240;2023-05-01 12:13:00;Maria;Coca Cola Zero 0,33
+241;2023-05-01 11:51:00;Lucas;Monster hvit 0,5
+242;2023-05-01 09:30:00;Maria;Olden Eple
+243;2023-04-30 23:08:00;Ella;Fanta-Sprite
+244;2023-04-30 21:45:00;Filip;Hansa Pils 0,33
+245;2023-04-30 21:45:00;Ella;Hansa Pils 0,33
+246;2023-04-30 21:45:00;Ella;Hansa Pils 0,33
+247;2023-04-30 21:11:00;Ella;Hansa Pils 0,33
+248;2023-04-30 21:11:00;Ella;Hansa Pils 0,33
+249;2023-04-30 20:09:00;Lucas;San Pellegrino
+250;2023-04-30 17:15:00;Ella;San Pellegrino
+251;2023-04-30 16:14:00;Sofie;Fanta-Sprite
+252;2023-04-30 14:00:00;Ella;San Pellegrino
+253;2023-04-29 19:23:00;Lucas;Ginger Joe
+254;2023-04-29 18:54:00;Jonas;Coca Cola Zero 0,33
+255;2023-04-29 17:06:00;Lucas;Fanta-Sprite
+256;2023-04-29 16:16:00;Lucas;Hansa Pils 0,33
+257;2023-04-29 16:16:00;Lucas;Breezer
+258;2023-04-29 12:42:00;Lucas;San Pellegrino
+259;2023-04-29 10:27:00;Lucas;Monster hvit 0,5
+260;2023-04-28 20:07:00;Ella;Hansa Pils 0,33
+261;2023-04-28 19:37:00;Ella;Hansa Pils 0,33
+262;2023-04-28 19:25:00;Lucas;Coca Cola Zero 0,33
+263;2023-04-28 18:32:00;Ella;Hansa Pils 0,33
+264;2023-04-28 18:04:00;Ella;Hansa Pils 0,33
+265;2023-04-28 17:20:00;Andreas;San Pellegrino
+266;2023-04-28 16:59:00;Lucas;Fanta-Sprite
+267;2023-04-28 16:14:00;Lucas;San Pellegrino
+268;2023-04-28 15:10:00;Ella;San Pellegrino
+269;2023-04-28 13:37:00;Ella;San Pellegrino
+270;2023-04-28 13:06:00;Sebastian;Fanta-Sprite
+271;2023-04-28 13:02:00;Maria;Fanta-Sprite
+272;2023-04-28 11:52:00;Benjamin;Olden Eple
+273;2023-04-27 22:17:00;Victoria;Coca Cola Zero 0,33
+274;2023-04-27 21:56:00;Peder;Smirnoff ice original
+275;2023-04-27 21:56:00;Peder;Hard Seltzer Mango
+276;2023-04-27 21:56:00;Peder;Hard Seltzer Mango
+277;2023-04-27 21:50:00;Victoria;San Pellegrino
+278;2023-04-27 21:28:00;Lucas;San Pellegrino
+279;2023-04-27 20:11:00;Amalie;Fanta-Sprite
+280;2023-04-27 19:56:00;Maria;Fanta-Sprite
+281;2023-04-27 19:27:00;Ella;San Pellegrino
+282;2023-04-27 18:06:00;Lucas;Fanta-Sprite
+283;2023-04-27 17:10:00;Lucas;Coca Cola Zero 0,33
+284;2023-04-27 17:10:00;Lucas;Coca Cola Zero 0,33
+285;2023-04-27 16:30:00;Ella;San Pellegrino
+286;2023-04-27 15:04:00;Lucas;San Pellegrino
+287;2023-04-27 12:34:00;Filip;San Pellegrino
+288;2023-04-27 12:22:00;Lucas;Monster hvit 0,5
+289;2023-04-27 10:20:00;Peder;Olden Eple
+290;2023-04-27 10:07:00;Ingrid;San Pellegrino
+291;2023-04-27 08:52:00;Emma;Monster hvit 0,5
+292;2023-04-27 08:52:00;Emma;San Pellegrino
+293;2023-04-26 21:52:00;Amalie;Coca Cola Zero 0,33
+294;2023-04-26 19:21:00;Filip;San Pellegrino
+295;2023-04-26 18:57:00;Maria;San Pellegrino
+296;2023-04-26 18:09:00;Victoria;San Pellegrino
+297;2023-04-26 18:08:00;Emma;San Pellegrino
+298;2023-04-26 18:06:00;Lucas;San Pellegrino
+299;2023-04-26 18:06:00;Victoria;San Pellegrino
+300;2023-04-26 17:52:00;Ella;Hansa Premium 0,33
+301;2023-04-26 17:52:00;Ella;Ginger Joe
+302;2023-04-26 17:31:00;Filip;San Pellegrino
+303;2023-04-26 14:47:00;Maria;Ginger Joe
+304;2023-04-26 14:47:00;Maria;Hansa Pils 0,33
+305;2023-04-26 14:47:00;Lucas;Ginger Joe
+306;2023-04-25 20:17:00;Benjamin;Hard Seltzer Mango
+307;2023-04-24 18:01:00;Benjamin;Hard Seltzer Mango
+308;2023-04-23 00:13:00;Lucas;Breezer
+309;2023-04-22 23:33:00;Lucas;Breezer
+310;2023-04-22 22:40:00;Lucas;Hard Seltzer Mango
+311;2023-04-22 22:38:00;Sebastian;Hansa Pils 0,33
+312;2023-04-22 21:41:00;Sebastian;Hansa Pils 0,33
+313;2023-04-22 21:36:00;Lucas;Hard Seltzer Grapefruit
+314;2023-04-22 21:31:00;Emil;Hansa Pils 0,33
+315;2023-04-22 21:30:00;Ida;Hansa Pils 0,33
+316;2023-04-22 21:28:00;Benjamin;Hansa Pils 0,33
+317;2023-04-22 19:23:00;Filip;Hansa Pils 0,33
+318;2023-04-22 19:23:00;Filip;Hansa Pils 0,33
+319;2023-04-22 19:23:00;Filip;Smirnoff ice tropical
+320;2023-04-22 19:23:00;Filip;Smirnoff ice tropical
+321;2023-04-21 20:13:00;Sebastian;Hansa Pils 0,33
+322;2023-04-21 20:13:00;Maja;Hard Seltzer Mango
+323;2023-04-21 20:13:00;Maja;Hard Seltzer Mango
+324;2023-04-21 20:13:00;Maja;Hansa Pils 0,33
+325;2023-04-21 20:13:00;Maja;Hansa Pils 0,33
+326;2023-04-21 15:57:00;Peder;Smirnoff ice tropical
+327;2023-04-21 15:50:00;Peder;Hard Seltzer Mango
+328;2023-04-21 15:50:00;Peder;Hansa Pils 0,33
+329;2023-04-20 16:32:00;Ella;Ginger Joe
+330;2023-04-19 18:49:00;Sofie;Red Bull
+331;2023-04-19 15:17:00;Maja;Fanta-Sprite
+332;2023-04-19 15:17:00;Maja;Fanta-Sprite
+333;2023-04-18 16:47:00;Benjamin;Fanta-Sprite
+334;2023-04-18 16:01:00;Ella;Fanta-Sprite
+335;2023-04-18 13:29:00;Ella;Burn 0,33
+336;2023-04-18 13:29:00;Ella;Red Bull
+337;2023-04-18 11:48:00;Sebastian;Red Bull
+338;2023-04-17 12:27:00;Ella;Red Bull
+339;2023-04-16 19:13:00;Benjamin;Fanta-Sprite
+340;2023-04-16 18:57:00;Maja;Fanta-Sprite
+341;2023-04-16 18:57:00;Maja;Fanta-Sprite
+342;2023-04-16 01:02:00;Benjamin;Hansa Pils 0,33
+343;2023-04-16 01:02:00;Benjamin;Hansa Pils 0,33
+344;2023-04-16 01:02:00;Benjamin;Hansa Pils 0,33
+345;2023-04-15 10:20:00;Sebastian;Fanta-Sprite
+346;2023-04-14 22:29:00;Benjamin;Hansa Mango IPA
+347;2023-04-14 18:08:00;Filip;Hansa Pils 0,33
+348;2023-04-14 18:08:00;Filip;Hansa Pils 0,33
+349;2023-04-14 15:54:00;Benjamin;Fanta-Sprite
+350;2023-04-14 14:08:00;Martin;Monster hvit 0,5
+351;2023-04-14 12:16:00;Sebastian;Monster hvit 0,5
+352;2023-04-13 19:13:00;Ida;Hansa Pils 0,33
+353;2023-04-13 18:34:00;Emil;Hansa Pils 0,33
+354;2023-04-13 18:18:00;Ida;Hansa Pils 0,33
+355;2023-04-13 18:16:00;Ida;Red Bull
+356;2023-04-13 18:16:00;Benjamin;Hansa Pils 0,33
+357;2023-04-13 13:35:00;Ella;Red Bull
+358;2023-04-13 13:35:00;Ella;Red Bull
+359;2023-04-13 13:31:00;Filip;Red Bull
+360;2023-04-13 13:31:00;Sebastian;Red Bull
+361;2023-04-13 11:33:00;Maja;Coca Cola Zero 0,33
+362;2023-04-13 07:43:00;Peder;Smirnoff ice original
+363;2023-04-13 07:43:00;Peder;Hansa Pils 0,33
+364;2023-04-13 07:43:00;Peder;Hansa Pils 0,33
+365;2023-04-13 07:43:00;Peder;Hansa Pils 0,33
+366;2023-04-12 14:21:00;Ella;Red Bull
+367;2023-04-11 21:04:00;Lucas;Coca Cola Zero 0,33
+368;2023-04-02 13:48:00;Maria;Monster hvit 0,5
+369;2023-03-31 18:21:00;Filip;Olden Eple
+370;2023-03-31 17:02:00;Maria;Coca Cola Zero 0,33
+371;2023-03-31 12:18:00;Maria;Olden Eple
+372;2023-03-30 16:09:00;Benjamin;Coca Cola Zero 0,33
+373;2023-03-30 15:57:00;Emma;Burn 0,33
+374;2023-03-30 15:35:00;Lucas;Olden Eple
+375;2023-03-29 20:16:00;Ella;Hansa Premium 0,33
+376;2023-03-29 19:10:00;Benjamin;Hansa Pils 0,33
+377;2023-03-29 18:42:00;Ella;Ginger Joe
+378;2023-03-29 18:41:00;Maria;Ginger Joe
+379;2023-03-29 18:41:00;Maria;Smirnoff ice original
+380;2023-03-29 16:42:00;Sebastian;Monster hvit 0,5
+381;2023-03-29 16:40:00;Benjamin;Fanta-Sprite
+382;2023-03-29 16:31:00;Maja;Olden Eple
+383;2023-03-29 13:41:00;Ella;Olden Eple
+384;2023-03-28 17:41:00;Maria;Coca Cola Zero 0,33
+385;2023-03-28 17:39:00;Sebastian;Hansa Pils 0,33
+386;2023-03-28 17:35:00;Lucas;Monster hvit 0,5
+387;2023-03-28 17:34:00;Andreas;Olden Eple
+388;2023-03-28 17:09:00;Peder;Coca Cola Zero 0,33
+389;2023-03-28 13:58:00;Emma;Burn 0,33
+390;2023-03-28 13:03:00;Maria;Red Bull
+391;2023-03-28 11:38:00;Ingrid;Monster hvit 0,5
+392;2023-03-28 11:24:00;Sebastian;Monster hvit 0,5
+393;2023-03-28 10:25:00;Maja;Olden Eple
+394;2023-03-27 15:53:00;Emma;Coca Cola Zero 0,33
+395;2023-03-26 23:32:00;Lucas;Olden Eple
+396;2023-03-26 21:07:00;Filip;Olden Eple
+397;2023-03-26 21:07:00;Ella;Olden Eple
+398;2023-03-26 17:27:00;Emma;Fanta-Sprite
+399;2023-03-26 17:27:00;Emma;Coca Cola Zero 0,33
+400;2023-03-26 16:08:00;Filip;Red Bull
+401;2023-03-26 13:46:00;Emma;Monster hvit 0,5
+402;2023-03-25 12:42:00;Anna;Monster hvit 0,5
+403;2023-03-24 23:48:00;Ida;Hansa Pils 0,33
+404;2023-03-24 23:08:00;Ida;Hansa Pils 0,33
+405;2023-03-24 22:43:00;Ida;Hansa Pils 0,33
+406;2023-03-24 19:39:00;Emma;Olden Eple
+407;2023-03-24 15:44:00;Sebastian;Hansa Pils 0,33
+408;2023-03-24 13:40:00;Maja;Olden Eple
+409;2023-03-24 10:45:00;Herman;Red Bull
+410;2023-03-24 00:22:00;Martin;Monster hvit 0,5
+411;2023-03-23 20:31:00;Sofie;Red Bull
+412;2023-03-23 20:15:00;Emma;Hansa Pils 0,33
+413;2023-03-23 20:15:00;Emma;Hansa Pils 0,33
+414;2023-03-23 20:12:00;Nora;Fanta-Sprite
+415;2023-03-23 19:36:00;Benjamin;Hansa Pils 0,33
+416;2023-03-23 19:23:00;Lucas;Ginger Joe
+417;2023-03-23 19:23:00;Sebastian;Ginger Joe
+418;2023-03-23 18:09:00;Emma;Hansa Pils 0,33
+419;2023-03-23 17:49:00;Lucas;Breezer
+420;2023-03-23 17:42:00;Sebastian;Hansa Pils 0,33
+421;2023-03-23 17:42:00;Peder;Hansa Pils 0,33
+422;2023-03-23 17:42:00;Benjamin;Hansa Pils 0,33
+423;2023-03-23 17:42:00;Benjamin;Hansa Pils 0,33
+424;2023-03-23 16:54:00;Andreas;Olden Eple
+425;2023-03-23 16:26:00;Victoria;Olden Eple
+426;2023-03-23 16:26:00;Sebastian;Coca Cola Zero 0,33
+427;2023-03-23 16:26:00;Sebastian;Coca Cola Zero 0,33
+428;2023-03-23 12:52:00;Andreas;Burn 0,33
+429;2023-03-23 10:32:00;Andreas;Burn 0,33
+430;2023-03-22 21:48:00;Andreas;Olden Eple
+431;2023-03-22 20:49:00;Maria;Hansa Pils 0,33
+432;2023-03-22 20:49:00;Ella;Hansa Pils 0,33
+433;2023-03-22 20:49:00;Ella;Hansa Pils 0,33
+434;2023-03-22 15:58:00;Herman;Red Bull
+435;2023-03-22 15:47:00;Peder;Fanta-Sprite
+436;2023-03-22 15:44:00;Emma;Red Bull
+437;2023-03-22 15:41:00;Nora;Fanta-Sprite
+438;2023-03-22 14:52:00;Maria;Olden Eple
+439;2023-03-22 14:52:00;Sebastian;Olden Eple
+440;2023-03-22 12:50:00;Nora;Fanta-Sprite
+441;2023-03-22 12:43:00;Emma;Red Bull
+442;2023-03-22 12:36:00;Emma;Fanta-Sprite
+443;2023-03-21 21:48:00;Lucas;Brus 0,3
+444;2023-03-21 21:17:00;Sebastian;Olden Eple
+445;2023-03-21 20:58:00;Martin;Brus 0,3
+446;2023-03-21 20:12:00;Lucas;Brus 0,3
+447;2023-03-21 12:04:00;Sebastian;Coca Cola Zero 0,33
+448;2023-03-21 11:00:00;Emma;Monster hvit 0,5
+449;2023-03-21 10:55:00;Lucas;Olden Eple
+450;2023-03-21 10:55:00;Peder;Olden Eple
+451;2023-03-21 10:20:00;William;Red Bull
+452;2023-03-21 09:04:00;Lucas;Monster hvit 0,5
+453;2023-03-21 09:04:00;Sebastian;Monster hvit 0,5
+454;2023-03-20 22:56:00;Martin;Brus 0,3
+455;2023-03-20 22:56:00;Martin;Brus 0,3
+456;2023-03-20 22:56:00;Victoria;Olden Eple
+457;2023-03-20 22:23:00;Sebastian;Olden Eple
+458;2023-03-20 21:19:00;Martin;Brus 0,3
+459;2023-03-20 20:23:00;Sebastian;Monster hvit 0,5
+460;2023-03-20 20:17:00;Lucas;Brus 0,3
+461;2023-03-20 18:06:00;Martin;Brus 0,3
+462;2023-03-20 15:55:00;Martin;Brus 0,3
+463;2023-03-20 15:55:00;Martin;Brus 0,3
+464;2023-03-20 14:06:00;Peder;Brus 0,3
+465;2023-03-20 14:06:00;William;Brus 0,3
+466;2023-03-20 13:12:00;Maja;Olden Eple
+467;2023-03-20 10:10:00;Lucas;Monster hvit 0,5
+468;2023-03-20 09:59:00;Emma;Olden Eple
+469;2023-03-20 09:34:00;Aksel;Olden Eple
+470;2023-03-19 16:32:00;Victoria;Brus 0,3
+471;2023-03-19 16:24:00;Sebastian;Monster hvit 0,5
+472;2023-03-19 12:28:00;Maria;Red Bull
+473;2023-03-17 19:39:00;Victoria;Olden Eple
+474;2023-03-17 19:38:00;Martin;Brus 0,3
+475;2023-03-17 18:10:00;Peder;Hard Seltzer Grapefruit
+476;2023-03-17 18:10:00;Peder;Hard Seltzer Grapefruit
+477;2023-03-17 18:10:00;Peder;Hard Seltzer Grapefruit
+478;2023-03-17 18:10:00;Peder;Hard Seltzer Grapefruit
+479;2023-03-17 18:10:00;Peder;Hard Seltzer Grapefruit
+480;2023-03-17 18:10:00;Peder;Hard Seltzer Grapefruit
+481;2023-03-17 18:10:00;Peder;Hard Seltzer Mango
+482;2023-03-17 16:58:00;Martin;Brus 0,3
+483;2023-03-17 16:58:00;Martin;Monster hvit 0,5
+484;2023-03-17 16:35:00;Martin;Hansa Fatål 0,33
+485;2023-03-17 16:34:00;Martin;Brus 0,3
+486;2023-03-17 16:01:00;Sebastian;Olden Eple
+487;2023-03-17 12:24:00;Aksel;Brus 0,3
+488;2023-03-17 12:24:00;Aksel;Brus 0,3
+489;2023-03-17 12:21:00;Peder;Brus 0,3
+490;2023-03-17 11:05:00;Martin;Monster hvit 0,5
+491;2023-03-17 11:05:00;Martin;Monster hvit 0,5
+492;2023-03-17 10:00:00;Peder;Hansa Pils 0,33
+493;2023-03-17 10:00:00;Peder;Brus 0,3
+494;2023-03-16 17:37:00;Emma;Brus 0,3
+495;2023-03-16 16:20:00;Martin;Monster hvit 0,5
+496;2023-03-16 16:20:00;Martin;Monster hvit 0,5
+497;2023-03-16 14:34:00;Emma;Red Bull
+498;2023-03-16 13:13:00;Ella;Olden Eple
+499;2023-03-16 12:54:00;Lucas;Monster hvit 0,5
+500;2023-03-16 12:11:00;Herman;Red Bull
+501;2023-03-16 11:57:00;Maria;Monster hvit 0,5
+502;2023-03-16 11:24:00;Ella;Olden Eple
+503;2023-03-15 21:52:00;Benjamin;Hansa Premium 0,33
+504;2023-03-15 21:52:00;Benjamin;Hansa Fatål 0,33
+505;2023-03-15 21:52:00;Benjamin;Hansa Fatål 0,33
+506;2023-03-15 21:34:00;Ingrid;Smirnoff ice original
+507;2023-03-15 21:34:00;Maja;Hard Seltzer Grapefruit
+508;2023-03-15 21:34:00;Maja;Hard Seltzer Grapefruit
+509;2023-03-15 21:06:00;Benjamin;Hansa Premium 0,33
+510;2023-03-15 21:06:00;Benjamin;Hansa Premium 0,33
+511;2023-03-15 20:38:00;Benjamin;Hansa Fatål 0,33
+512;2023-03-15 20:05:00;Benjamin;Ginger Joe
+513;2023-03-15 20:05:00;Benjamin;Hansa Pils 0,33
+514;2023-03-15 20:05:00;Benjamin;Hansa Pils 0,33
+515;2023-03-15 18:42:00;Filip;Brus 0,3
+516;2023-03-15 16:45:00;Ella;Ginger Joe
+517;2023-03-15 16:32:00;Maria;Ginger Joe
+518;2023-03-15 16:22:00;Maria;Smirnoff ice original
+519;2023-03-15 16:22:00;Maria;Smirnoff ice original
+520;2023-03-15 15:56:00;Ella;Hansa Pils 0,33
+521;2023-03-15 15:50:00;Maja;Brus 0,3
+522;2023-03-15 15:49:00;Ella;Hansa Pils 0,33
+523;2023-03-15 15:40:00;Ella;Hansa Pils 0,33
+524;2023-03-15 15:12:00;Ella;Hansa Pils 0,33
+525;2023-03-15 15:12:00;Ella;Hansa Pils 0,33
+526;2023-03-15 14:58:00;Maria;Smirnoff ice original
+527;2023-03-15 14:32:00;Maria;Smirnoff ice original
+528;2023-03-15 13:53:00;Ingrid;Red Bull
+529;2023-03-15 11:13:00;Maja;Olden Eple
+530;2023-03-15 10:25:00;Sebastian;Monster hvit 0,5
+531;2023-03-15 10:24:00;Martin;Brus 0,3
+532;2023-03-14 16:12:00;Lucas;Olden Eple
+533;2023-03-14 13:08:00;Ingrid;Red Bull
+534;2023-03-14 12:04:00;Maria;Red Bull
+535;2023-03-14 08:24:00;Markus;Red Bull
+536;2023-03-13 20:11:00;Lucas;Brus 0,3
+537;2023-03-13 19:30:00;Maria;Brus 0,3
+538;2023-03-13 19:20:00;Sebastian;Monster hvit 0,5
+539;2023-03-13 18:56:00;Filip;Brus 0,3
+540;2023-03-13 18:28:00;Jonas;Coca Cola Zero 0,33
+541;2023-03-13 18:28:00;Mathias;Coca Cola Zero 0,33
+542;2023-03-13 18:28:00;Victoria;Coca Cola Zero 0,33
+543;2023-03-13 15:47:00;Sebastian;Olden Eple
+544;2023-03-13 15:10:00;Maja;Olden Eple
+545;2023-03-13 12:34:00;Lucas;Monster hvit 0,5
+546;2023-03-13 11:39:00;Maria;Brus 0,3
+547;2023-03-13 10:25:00;Maria;Red Bull
+548;2023-03-12 17:00:00;Lucas;Monster hvit 0,5
+549;2023-03-12 16:31:00;Victoria;Brus 0,3
+550;2023-03-12 16:31:00;Victoria;Brus 0,3
+551;2023-03-12 16:00:00;Filip;Brus 0,3
+552;2023-03-10 19:31:00;Peder;Hansa Pils 0,33
+553;2023-03-10 19:31:00;Peder;Hansa Pils 0,33
+554;2023-03-10 19:31:00;Peder;Hansa Pils 0,33
+555;2023-03-10 14:51:00;Andreas;Olden Eple
+556;2023-03-10 14:46:00;Markus;Red Bull
+557;2023-03-09 19:00:00;Ella;Olden Eple
+558;2023-03-09 15:16:00;Benjamin;Brus 0,3
+559;2023-03-09 15:16:00;Peder;Brus 0,3
+560;2023-03-09 14:49:00;Maria;Red Bull
+561;2023-03-09 14:10:00;Herman;Red Bull
+562;2023-03-09 12:48:00;Lucas;Olden Eple
+563;2023-03-09 10:24:00;Herman;Red Bull
+564;2023-03-08 14:24:00;Emma;Olden Eple
+565;2023-03-07 19:44:00;Ella;Hansa Pils 0,33
+566;2023-03-07 18:41:00;Ella;Hansa Pils 0,33
+567;2023-03-07 18:39:00;Filip;Eplemost
+568;2023-03-07 16:47:00;Filip;Hansa Pils 0,33
+569;2023-03-07 16:28:00;Filip;Hansa Pils 0,33
+570;2023-03-07 15:57:00;Peder;Brus 0,3
+571;2023-03-07 15:42:00;Ella;Hansa Pils 0,33
+572;2023-03-07 15:42:00;Ella;Olden Eple
+573;2023-03-07 12:44:00;Ella;Brus 0,3
+574;2023-03-07 11:49:00;Ingrid;Monster hvit 0,5
+575;2023-03-07 11:42:00;Sebastian;Monster hvit 0,5
+576;2023-03-07 00:07:00;Benjamin;Hansa Pils 0,33
+577;2023-03-06 14:48:00;Andreas;Brus 0,3
+578;2023-03-06 13:35:00;Ella;Olden Eple
+579;2023-03-06 11:39:00;Maria;Brus 0,3
+580;2023-03-05 18:51:00;Andreas;Olden Eple
+581;2023-03-05 15:57:00;Lucas;Coca Cola Zero 0,33
+582;2023-03-05 13:11:00;Lucas;Monster hvit 0,5
+583;2023-03-05 00:28:00;Ingrid;Hansa Premium 0,33
+584;2023-03-05 00:18:00;Ingrid;Smirnoff ice tropical
+585;2023-03-05 00:13:00;Lukas;Hansa Pils 0,33
+586;2023-03-05 00:07:00;Victoria;Hansa Pils 0,33
+587;2023-03-05 00:07:00;Victoria;Hansa Pils 0,33
+588;2023-03-05 00:02:00;Ingrid;Breezer
+589;2023-03-04 23:57:00;Benjamin;Smirnoff ice tropical
+590;2023-03-04 23:56:00;Lukas;Breezer
+591;2023-03-04 21:25:00;Lucas;Coca Cola Zero 0,33
+592;2023-03-04 20:58:00;Benjamin;Hansa Pils 0,33
+593;2023-03-04 20:58:00;Lukas;Hansa Pils 0,33
+594;2023-03-04 17:21:00;Benjamin;Coca Cola Zero 0,33
+595;2023-03-04 17:18:00;Lukas;Coca Cola Zero 0,33
+596;2023-03-04 17:14:00;William;Hansa Premium 0,33
+597;2023-03-04 17:04:00;Sebastian;Hansa Pils 0,33
+598;2023-03-04 17:01:00;Sebastian;Hard Seltzer Grapefruit
+599;2023-03-04 02:12:00;Peder;Olden Eple
+600;2023-03-04 01:10:00;Maria;Breezer
+601;2023-03-04 01:10:00;Maria;Monster hvit 0,5
+602;2023-03-04 01:10:00;Maria;Hansa Pils 0,33
+603;2023-03-04 01:10:00;Maria;Hansa Pils 0,33
+604;2023-03-04 01:03:00;Peder;Smirnoff ice tropical
+605;2023-03-04 01:03:00;Ingrid;Smirnoff ice original
+606;2023-03-04 01:03:00;Ingrid;Smirnoff ice original
+607;2023-03-04 00:43:00;Peder;Hard Seltzer Mango
+608;2023-03-04 00:43:00;Mathias;Breezer
+609;2023-03-04 00:43:00;Ingrid;Smirnoff ice tropical
+610;2023-03-04 00:43:00;Ingrid;Hard Seltzer Grapefruit
+611;2023-03-04 00:08:00;Maria;Smirnoff ice tropical
+612;2023-03-04 00:02:00;Ingrid;Hansa Pils 0,33
+613;2023-03-04 00:02:00;Peder;Hansa Pils 0,33
+614;2023-03-03 23:20:00;Peder;Breezer
+615;2023-03-03 23:20:00;Ingrid;Breezer
+616;2023-03-03 23:10:00;Peder;Smirnoff ice original
+617;2023-03-03 23:05:00;Sebastian;Breezer
+618;2023-03-03 22:51:00;Martin;Hansa Pils 0,33
+619;2023-03-03 22:50:00;Ingrid;Hansa Pils 0,33
+620;2023-03-03 22:35:00;Andreas;Hansa Pils 0,33
+621;2023-03-03 22:24:00;Lukas;Hard Seltzer Grapefruit
+622;2023-03-03 22:14:00;Ella;Hard Seltzer Mango
+623;2023-03-03 22:13:00;Ingrid;Hard Seltzer Mango
+624;2023-03-03 22:11:00;Martin;Hansa Pils 0,33
+625;2023-03-03 21:38:00;Sebastian;Hansa Pils 0,33
+626;2023-03-03 21:34:00;Ingrid;Hansa Premium 0,33
+627;2023-03-03 21:30:00;Lukas;Hansa Pils 0,33
+628;2023-03-03 21:30:00;Peder;Hansa Pils 0,33
+629;2023-03-03 21:19:00;Victoria;Brus 0,3
+630;2023-03-03 21:18:00;Lucas;Olden Eple
+631;2023-03-03 21:16:00;Lukas;Smirnoff ice original
+632;2023-03-03 21:15:00;Andreas;Hansa Premium 0,33
+633;2023-03-03 21:08:00;Sebastian;Hansa Pils 0,33
+634;2023-03-03 20:57:00;Lukas;Hansa Pils 0,33
+635;2023-03-03 20:56:00;Ingrid;Smirnoff ice tropical
+636;2023-03-03 20:50:00;Lukas;Smirnoff ice tropical
+637;2023-03-03 20:46:00;Peder;Hard Seltzer Mango
+638;2023-03-03 20:46:00;Lucas;Coca Cola Zero 0,33
+639;2023-03-03 20:45:00;Andreas;Hansa Pils 0,33
+640;2023-03-03 20:45:00;Sebastian;Hansa Pils 0,33
+641;2023-03-03 17:38:00;Amalie;Brus 0,3
+642;2023-03-03 17:35:00;Peder;Smirnoff ice original
+643;2023-03-03 17:25:00;Lucas;Brus 0,3
+644;2023-03-03 17:24:00;Filip;Brus 0,3
+645;2023-03-03 17:15:00;Peder;Brus 0,3
+646;2023-03-03 17:15:00;Andreas;Brus 0,3
+647;2023-03-03 17:14:00;Mathias;Olden Eple
+648;2023-03-03 16:35:00;Lucas;Monster hvit 0,5
+649;2023-03-03 16:25:00;Julie;Brus 0,3
+650;2023-03-03 15:50:00;Lukas;Brus 0,3
+651;2023-03-03 15:28:00;Maria;Brus 0,3
+652;2023-03-03 15:06:00;Lucas;Brus 0,3
+653;2023-03-03 15:06:00;Mathias;Brus 0,3
+654;2023-03-03 15:05:00;Maria;Monster hvit 0,5
+655;2023-03-03 12:26:00;Maria;Monster hvit 0,5
+656;2023-03-02 23:53:00;Ella;Smirnoff ice original
+657;2023-03-02 23:53:00;Ella;Hansa Premium 0,33
+658;2023-03-02 22:15:00;Andreas;Hansa Pils 0,33
+659;2023-03-02 22:12:00;Ida;Hansa Pils 0,33
+660;2023-03-02 22:12:00;Amalie;Hansa Pils 0,33
+661;2023-03-02 21:37:00;Amalie;Smirnoff ice original
+662;2023-03-02 21:35:00;Martin;Coca Cola Zero 0,33
+663;2023-03-02 21:23:00;Ida;Hansa Pils 0,33
+664;2023-03-02 21:19:00;Maja;Smirnoff ice original
+665;2023-03-02 21:19:00;Maja;Smirnoff ice original
+666;2023-03-02 21:03:00;Maja;Hard Seltzer Grapefruit
+667;2023-03-02 21:02:00;Maja;Hard Seltzer Grapefruit
+668;2023-03-02 20:56:00;Ida;Hansa Pils 0,33
+669;2023-03-02 20:43:00;Lucas;Breezer
+670;2023-03-02 20:42:00;Ida;Hansa Pils 0,33
+671;2023-03-02 20:03:00;Maja;Hansa Premium 0,33
+672;2023-03-02 20:03:00;Maja;Hansa Premium 0,33
+673;2023-03-02 18:04:00;Peder;Hansa Pils 0,33
+674;2023-03-02 18:04:00;Ella;Hansa Pils 0,33
+675;2023-03-02 18:04:00;Peder;Hard Seltzer Mango
+676;2023-03-02 18:01:00;Ella;Hansa Pils 0,33
+677;2023-03-02 17:58:00;Ida;Coca Cola Zero 0,33
+678;2023-03-02 17:57:00;Jonas;Breezer
+679;2023-03-02 17:57:00;Jonas;Grevens Pårecider 0,5
+680;2023-03-02 17:57:00;Jonas;Grevens Pårecider 0,5
+681;2023-03-02 17:57:00;Maria;Hansa Pils 0,33
+682;2023-03-02 17:52:00;Mathias;Breezer
+683;2023-03-02 17:44:00;Peder;Hard Seltzer Mango
+684;2023-03-02 17:42:00;Mathias;Hard Seltzer Grapefruit
+685;2023-03-02 17:29:00;Andreas;Brus 0,3
+686;2023-03-02 17:28:00;Benjamin;Hansa Pils 0,33
+687;2023-03-02 17:05:00;Peder;Brus 0,3
+688;2023-03-02 16:52:00;Ida;Hansa Pils 0,33
+689;2023-03-02 16:28:00;Jonas;Hansa Pils 0,33
+690;2023-03-02 16:27:00;Ingrid;Hansa Pils 0,33
+691;2023-03-02 16:26:00;Benjamin;Hansa Pils 0,33
+692;2023-03-02 15:44:00;Peder;Hansa Pils 0,33
+693;2023-03-02 15:44:00;Peder;Hansa Pils 0,33
+694;2023-03-02 15:44:00;Ingrid;Hansa Pils 0,33
+695;2023-03-02 15:44:00;Ingrid;Hansa Pils 0,33
+696;2023-03-02 15:37:00;Maria;Brus 0,3
+697;2023-03-02 14:33:00;Peder;Red Bull
+698;2023-03-02 14:01:00;Ella;Olden Eple
+699;2023-03-02 13:37:00;Maja;Olden Eple
+700;2023-03-02 13:27:00;Andreas;Olden Eple
+701;2023-03-02 11:50:00;Filip;Brus 0,3
+702;2023-03-02 11:49:00;Peder;Brus 0,3
+703;2023-03-02 11:40:00;Benjamin;Coca Cola Zero 0,33
+704;2023-03-01 23:14:00;Sebastian;Hansa Pils 0,33
+705;2023-03-01 23:13:00;Filip;Hansa Pils 0,33
+706;2023-03-01 21:04:00;Sebastian;Hansa Pils 0,33
+707;2023-03-01 21:04:00;Peder;Hard Seltzer Mango
+708;2023-03-01 21:03:00;Filip;Hard Seltzer Grapefruit
+709;2023-03-01 20:10:00;Peder;Hard Seltzer Grapefruit
+710;2023-03-01 18:52:00;Peder;Brus 0,3
+711;2023-03-01 18:51:00;Sebastian;Hansa Fatål 0,33
+712;2023-03-01 18:50:00;Lukas;Hansa Pils 0,33
+713;2023-03-01 18:50:00;Filip;Coca Cola Zero 0,33
+714;2023-03-01 18:47:00;Ingrid;Monster hvit 0,5
+715;2023-03-01 18:39:00;Peder;Hansa Premium 0,33
+716;2023-03-01 18:33:00;Lukas;Hansa Pils 0,33
+717;2023-03-01 18:33:00;Sebastian;Hansa Pils 0,33
+718;2023-03-01 18:10:00;Markus;Olden Eple
+719;2023-03-01 16:16:00;Lukas;Coca Cola Zero 0,33
+720;2023-03-01 13:42:00;Lucas;Olden Eple
+721;2023-03-01 13:38:00;Ella;Olden Eple
+722;2023-03-01 09:39:00;Sebastian;Monster hvit 0,5
+723;2023-02-28 15:04:00;Sebastian;Monster hvit 0,5
+724;2023-02-27 18:48:00;Lucas;Breezer
+725;2023-02-27 18:44:00;Benjamin;Hansa Pils 0,33
+726;2023-02-24 10:13:00;Anna;Monster hvit 0,5
+727;2023-02-23 12:56:00;Maria;Breezer
+728;2023-02-23 12:56:00;Maja;Hard Seltzer Mango
+729;2023-02-23 12:56:00;Ella;Hard Seltzer Mango
+730;2023-02-23 12:40:00;Maja;Hansa Premium 0,33
+731;2023-02-23 12:27:00;Maja;Olden Eple
+732;2023-02-23 12:17:00;Maria;Hansa Pils 0,33
+733;2023-02-23 12:16:00;Sebastian;Hansa Pils 0,33
+734;2023-02-23 11:51:00;Ella;Hansa Premium 0,33
+735;2023-02-23 11:13:00;Sebastian;Hansa Pils 0,33
+736;2023-02-22 14:08:00;Ella;Olden Eple
+737;2023-02-22 13:25:00;Maja;Olden Eple
+738;2023-02-22 12:07:00;Sebastian;Olden Eple
+739;2023-02-22 09:59:00;Sebastian;Monster hvit 0,5
+740;2023-02-21 21:08:00;Lucas;Coca Cola Zero 0,33
+741;2023-02-21 18:47:00;Jonas;Breezer
+742;2023-02-21 18:47:00;Jonas;Smirnoff ice original
+743;2023-02-21 16:51:00;Amalie;Hansa Mango IPA
+744;2023-02-21 16:49:00;Maria;Brus 0,3
+745;2023-02-21 16:06:00;Maja;Olden Eple
+746;2023-02-21 16:06:00;Ella;Olden Eple
+747;2023-02-21 14:14:00;Maja;Olden Eple
+748;2023-02-21 14:11:00;Lucas;Olden Eple
+749;2023-02-21 11:32:00;Ella;Olden Eple
+750;2023-02-21 11:32:00;Ella;Monster hvit 0,5
+751;2023-02-20 16:34:00;Benjamin;Coca Cola Zero 0,33
+752;2023-02-20 15:08:00;Amalie;Coca Cola Zero 0,33
+753;2023-02-20 15:07:00;Maria;Brus 0,3
+754;2023-02-17 23:56:00;Erik;Hansa Premium 0,33
+755;2023-02-17 23:51:00;Lukas;Breezer
+756;2023-02-17 23:39:00;Emma;Hard Seltzer Mango
+757;2023-02-17 23:22:00;Lukas;Hansa Premium 0,33
+758;2023-02-17 23:18:00;Erik;Hansa Premium 0,33
+759;2023-02-17 23:14:00;Mathias;Breezer
+760;2023-02-17 23:04:00;Lukas;Hard Seltzer Mango
+761;2023-02-17 23:03:00;Sebastian;Hansa Pils 0,33
+762;2023-02-17 23:02:00;Mathias;Breezer
+763;2023-02-17 22:54:00;Emma;Hansa Premium 0,33
+764;2023-02-17 22:53:00;Lukas;Smirnoff ice original
+765;2023-02-17 22:47:00;Victoria;Olden Eple
+766;2023-02-17 22:45:00;Lucas;Breezer
+767;2023-02-17 22:45:00;Lukas;Hansa Pils 0,33
+768;2023-02-17 22:44:00;Erik;Hansa Mango IPA
+769;2023-02-17 22:40:00;Sebastian;Hansa Pils 0,33
+770;2023-02-17 20:57:00;Emma;Smirnoff ice tropical
+771;2023-02-17 20:49:00;Ella;Hansa Pils 0,33
+772;2023-02-17 20:49:00;Ella;Hansa Pils 0,33
+773;2023-02-17 20:49:00;Maria;Smirnoff ice original
+774;2023-02-17 20:49:00;Maria;Smirnoff ice original
+775;2023-02-17 20:49:00;Maria;Smirnoff ice original
+776;2023-02-17 19:31:00;Jonas;Smirnoff ice tropical
+777;2023-02-17 19:30:00;Andreas;Hard Seltzer Mango
+778;2023-02-17 19:21:00;Andreas;Hard Seltzer Grapefruit
+779;2023-02-17 19:21:00;Andreas;Hard Seltzer Grapefruit
+780;2023-02-17 19:10:00;Peder;Hansa Pils 0,33
+781;2023-02-17 19:10:00;Peder;Breezer
+782;2023-02-17 19:10:00;Peder;Breezer
+783;2023-02-17 19:10:00;Peder;Breezer
+784;2023-02-17 19:10:00;Peder;Smirnoff ice original
+785;2023-02-17 19:10:00;Peder;Hard Seltzer Grapefruit
+786;2023-02-17 18:20:00;Erik;Brus 0,3
+787;2023-02-17 17:47:00;Sebastian;Olden Eple
+788;2023-02-17 16:08:00;Lukas;Olden Eple
+789;2023-02-17 15:57:00;Lucas;Olden Eple
+790;2023-02-17 15:47:00;Peder;Breezer
+791;2023-02-17 15:47:00;Peder;Breezer
+792;2023-02-17 15:41:00;Peder;Smirnoff ice original
+793;2023-02-17 15:34:00;Peder;Smirnoff ice original
+794;2023-02-17 15:33:00;Peder;Hansa Pils 0,33
+795;2023-02-17 15:33:00;Peder;Smirnoff ice original
+796;2023-02-17 15:33:00;Peder;Smirnoff ice original
+797;2023-02-17 15:27:00;Benjamin;Coca Cola Zero 0,33
+798;2023-02-17 11:23:00;Sebastian;Monster hvit 0,5
+799;2023-02-16 23:43:00;Maria;Brus 0,3
+800;2023-02-16 23:17:00;Sander;Breezer
+801;2023-02-16 23:17:00;Sander;Breezer
+802;2023-02-16 23:12:00;Sander;Hansa Pils 0,33
+803;2023-02-16 22:52:00;Sander;Hansa Mango IPA
+804;2023-02-16 22:52:00;Sander;Hansa Mango IPA
+805;2023-02-16 22:21:00;Sander;Hansa Pils 0,33
+806;2023-02-16 19:18:00;Maja;Hansa Pils 0,33
+807;2023-02-16 14:12:00;Lucas;Coca Cola Zero 0,33
+808;2023-02-16 12:50:00;Sander;Olden Eple
+809;2023-02-16 11:44:00;Maria;Brus 0,3
+810;2023-02-16 10:53:00;Ella;Red Bull
+811;2023-02-16 10:53:00;Ella;Monster hvit 0,5
+812;2023-02-15 21:56:00;Lucas;Coca Cola Zero 0,33
+813;2023-02-15 16:01:00;Filip;Red Bull
+814;2023-02-15 12:19:00;Ella;Red Bull
+815;2023-02-15 12:19:00;Ella;Red Bull
+816;2023-02-14 22:59:00;Ingrid;Smirnoff ice original
+817;2023-02-14 22:35:00;Peder;Hansa Pils 0,33
+818;2023-02-14 22:11:00;Peder;Hansa Pils 0,33
+819;2023-02-14 21:36:00;Ingrid;Hard Seltzer Mango
+820;2023-02-14 21:36:00;Ingrid;Breezer
+821;2023-02-14 21:20:00;Ingrid;Breezer
+822;2023-02-14 21:00:00;Peder;Hansa Pils 0,33
+823;2023-02-14 21:00:00;Sebastian;Breezer
+824;2023-02-14 20:26:00;Ingrid;Breezer
+825;2023-02-14 20:25:00;Peder;Hard Seltzer Mango
+826;2023-02-14 20:15:00;Emma;Hansa Pils 0,33
+827;2023-02-14 20:15:00;Emma;Hansa Pils 0,33
+828;2023-02-14 20:15:00;Emma;Breezer
+829;2023-02-14 20:15:00;Emma;Breezer
+830;2023-02-14 19:57:00;Ingrid;Hansa Pils 0,33
+831;2023-02-14 19:56:00;Peder;Hansa Pils 0,33
+832;2023-02-14 19:25:00;Benjamin;Hansa Pils 0,33
+833;2023-02-14 19:15:00;Benjamin;Hansa Pils 0,33
+834;2023-02-14 18:18:00;Emma;Hansa Pils 0,33
+835;2023-02-14 12:10:00;Emma;Brus 0,3
+836;2023-02-14 10:08:00;Filip;Red Bull
+837;2023-02-13 17:41:00;Emma;Hansa Pils 0,33
+838;2023-02-13 17:41:00;Emma;Hansa Pils 0,33
+839;2023-02-13 17:41:00;Emma;Hansa Pils 0,33
+840;2023-02-13 13:25:00;Victoria;Red Bull
+841;2023-02-13 12:53:00;Ella;Red Bull
+842;2023-02-12 19:58:00;Ingrid;Hansa Pils 0,33
+843;2023-02-12 19:58:00;Ingrid;Hansa Pils 0,33
+844;2023-02-11 20:23:00;Peder;Hard Seltzer Grapefruit
+845;2023-02-11 20:23:00;Peder;Hard Seltzer Mango
+846;2023-02-11 15:17:00;Emma;Coca Cola Zero 0,33
+847;2023-02-11 14:48:00;Benjamin;Coca Cola Zero 0,33
+848;2023-02-11 02:04:00;Lucas;Breezer
+849;2023-02-11 00:05:00;Julie;Breezer
+850;2023-02-10 22:08:00;Peder;Hard Seltzer Mango
+851;2023-02-10 22:08:00;Peder;Hard Seltzer Mango
+852;2023-02-10 19:56:00;Emma;Breezer
+853;2023-02-10 19:56:00;Emma;Smirnoff ice original
+854;2023-02-10 19:56:00;Emma;Hansa Pils 0,33
+855;2023-02-10 19:56:00;Emma;Hansa Pils 0,33
+856;2023-02-10 19:56:00;Emma;Smirnoff ice original
+857;2023-02-10 19:55:00;Andreas;Hansa Pils 0,33
+858;2023-02-10 19:16:00;Julie;Hansa Pils 0,33
+859;2023-02-10 18:38:00;Julie;Hansa Pils 0,33
+860;2023-02-10 17:29:00;Victoria;Red Bull
+861;2023-02-10 15:51:00;Victoria;Red Bull
+862;2023-02-10 15:16:00;Emma;Hansa Pils 0,33
+863;2023-02-10 15:16:00;Peder;Hansa Pils 0,33
+864;2023-02-10 15:16:00;Maja;Hansa Pils 0,33
+865;2023-02-10 12:21:00;Maja;Hansa Pils 0,33
+866;2023-02-09 21:58:00;Filip;Breezer
+867;2023-02-09 21:57:00;Emma;Hansa Pils 0,33
+868;2023-02-09 21:57:00;Emma;Hansa Pils 0,33
+869;2023-02-09 21:57:00;Emma;Hansa Pils 0,33
+870;2023-02-09 21:13:00;Filip;Breezer
+871;2023-02-09 21:12:00;Ingrid;Breezer
+872;2023-02-09 20:49:00;Filip;Hard Seltzer Grapefruit
+873;2023-02-09 20:23:00;Filip;Breezer
+874;2023-02-09 20:22:00;Emma;Breezer
+875;2023-02-09 20:22:00;Ingrid;Breezer
+876;2023-02-09 19:44:00;Ingrid;Breezer
+877;2023-02-09 19:43:00;Ingrid;Breezer
+878;2023-02-09 19:19:00;Emma;Breezer
+879;2023-02-09 19:19:00;Filip;Breezer
+880;2023-02-09 19:18:00;Ingrid;Breezer
+881;2023-02-09 19:08:00;Ingrid;Hansa Pils 0,33
+882;2023-02-09 19:08:00;Ingrid;Hansa Pils 0,33
+883;2023-02-09 19:08:00;Ingrid;Hansa Pils 0,33
+884;2023-02-09 19:08:00;Emma;Hansa Pils 0,33
+885;2023-02-09 19:08:00;Emma;Hansa Pils 0,33
+886;2023-02-09 19:08:00;Emma;Hansa Pils 0,33
+887;2023-02-09 19:08:00;Emma;Hansa Pils 0,33
+888;2023-02-09 18:54:00;Filip;Breezer
+889;2023-02-09 18:54:00;Filip;Hansa Pils 0,33
+890;2023-02-09 16:00:00;Lucas;Breezer
+891;2023-02-09 15:57:00;Sebastian;Hansa Pils 0,33
+892;2023-02-09 15:57:00;Peder;Hansa Pils 0,33
+893;2023-02-09 15:57:00;Peder;Hansa Pils 0,33
+894;2023-02-09 14:35:00;Emma;Smirnoff ice original
+895;2023-02-09 14:34:00;Lucas;Breezer
+896;2023-02-09 14:34:00;Peder;Hansa Pils 0,33
+897;2023-02-09 14:33:00;Sebastian;Hansa Pils 0,33
+898;2023-02-09 08:11:00;William;Red Bull
+899;2023-02-08 22:54:00;Peder;Hansa Pils 0,33
+900;2023-02-08 20:11:00;Maria;Smirnoff ice original
+901;2023-02-08 17:51:00;Maria;Brus 0,3
+902;2023-02-08 10:11:00;Markus;Red Bull
+903;2023-02-07 14:43:00;Ella;Coca Cola Zero 0,33
+904;2023-02-07 12:14:00;Ella;Olden Eple
+905;2023-02-06 16:19:00;Emma;Brus 0,3
+906;2023-02-06 16:18:00;Benjamin;Brus 0,3
+907;2023-02-06 15:16:00;Ingrid;Brus 0,3
+908;2023-02-06 15:10:00;Maria;Hansa Pils 0,33
+909;2023-02-06 14:43:00;Maja;Olden Eple
+910;2023-02-06 12:52:00;Ella;Olden Eple
+911;2023-02-06 12:52:00;Ella;Red Bull
+912;2023-02-06 12:52:00;Ella;Red Bull
+913;2023-02-06 12:09:00;Andreas;Olden Eple
+914;2023-02-06 11:20:00;Sebastian;Olden Eple
+915;2023-02-06 10:56:00;Peder;Breezer
+916;2023-02-06 10:56:00;Peder;Breezer
+917;2023-02-06 10:56:00;Peder;Smirnoff ice original
+918;2023-02-06 10:56:00;Peder;Smirnoff ice original
+919;2023-02-06 10:56:00;Peder;Hard Seltzer Mango
+920;2023-02-06 10:56:00;Peder;Red Bull
+921;2023-02-04 22:38:00;Filip;Olden Eple
+922;2023-02-03 16:26:00;Ella;Olden Eple
+923;2023-02-03 15:38:00;Ella;Olden Eple
+924;2023-02-03 15:12:00;Sebastian;Olden Eple
+925;2023-02-03 12:35:00;Lucas;Olden Eple
+926;2023-02-02 22:40:00;Peder;Hard Seltzer Grapefruit
+927;2023-02-02 22:40:00;Peder;Hard Seltzer Grapefruit
+928;2023-02-02 22:40:00;Peder;Hansa Pils 0,33
+929;2023-02-02 22:40:00;Peder;Hansa Pils 0,33
+930;2023-02-02 16:49:00;Peder;Olden Eple
+931;2023-02-02 16:44:00;Maja;Red Bull
+932;2023-02-02 16:33:00;Sebastian;Hansa Pils 0,33
+933;2023-02-02 16:28:00;Lucas;Olden Eple
+934;2023-02-02 16:10:00;Ella;Hansa Pils 0,33
+935;2023-02-02 16:09:00;Filip;Hansa Pils 0,33
+936;2023-02-02 16:09:00;Filip;Hansa Pils 0,33
+937;2023-02-02 09:11:00;Ella;Red Bull
+938;2023-02-02 09:11:00;Ella;Red Bull
+939;2023-02-01 18:15:00;Julie;Hansa Pils 0,33
+940;2023-02-01 18:15:00;Benjamin;Hansa Pils 0,33
+941;2023-02-01 17:44:00;Lucas;Olden Eple
+942;2023-02-01 17:24:00;Ella;Hansa Pils 0,33
+943;2023-02-01 16:34:00;Benjamin;Brus 0,3
+944;2023-02-01 16:27:00;Ella;Olden Eple
+945;2023-02-01 16:00:00;Jonas;Red Bull
+946;2023-02-01 14:38:00;Filip;Red Bull
+947;2023-02-01 14:26:00;Emma;Olden Eple
+948;2023-02-01 13:33:00;Maria;Red Bull
+949;2023-02-01 13:07:00;Maja;Olden Eple
+950;2023-02-01 12:05:00;Peder;Red Bull
+951;2023-02-01 11:16:00;Sebastian;Olden Eple
+952;2023-02-01 09:47:00;Maria;Red Bull
+953;2023-02-01 09:32:00;Ella;Red Bull
+954;2023-02-01 09:32:00;Ella;Red Bull
+955;2023-01-31 12:06:00;Ingrid;Red Bull
+956;2023-01-31 11:22:00;Maria;Red Bull
+957;2023-01-30 19:12:00;Andreas;Breezer
+958;2023-01-30 19:11:00;Emma;Hansa Pils 0,33
+959;2023-01-30 18:37:00;Maria;Coca Cola Zero 0,33
+960;2023-01-30 18:03:00;Emma;Hansa Pils 0,33
+961;2023-01-30 18:02:00;Andreas;Hansa Pils 0,33
+962;2023-01-30 18:01:00;Benjamin;Smirnoff ice tropical
+963;2023-01-30 18:00:00;Peder;Hansa Pils 0,33
+964;2023-01-30 18:00:00;Sebastian;Brus 0,3
+965;2023-01-30 17:11:00;Peder;Hansa Pils 0,33
+966;2023-01-30 17:11:00;Peder;Hansa Pils 0,33
+967;2023-01-30 16:59:00;Victoria;Brus 0,3
+968;2023-01-30 15:03:00;Ella;Olden Eple
+969;2023-01-30 12:37:00;Ella;Red Bull
+970;2023-01-30 12:37:00;Ella;Red Bull
+971;2023-01-30 11:49:00;Ella;Olden Eple
+972;2023-01-28 13:56:00;Sebastian;Olden Eple
+973;2023-01-28 12:59:00;Maria;Red Bull
+974;2023-01-27 23:32:00;Lucas;Breezer
+975;2023-01-27 19:10:00;Emma;Red Bull
+976;2023-01-27 17:54:00;Ella;Hansa Pils 0,33
+977;2023-01-27 17:54:00;Ella;Hansa Pils 0,33
+978;2023-01-27 17:42:00;Peder;Hard Seltzer Grapefruit
+979;2023-01-27 17:41:00;Maja;Hard Seltzer Mango
+980;2023-01-27 17:41:00;Maja;Hard Seltzer Mango
+981;2023-01-27 16:52:00;Peder;Hansa Pils 0,33
+982;2023-01-27 16:10:00;Maja;Hansa Pils 0,33
+983;2023-01-27 15:09:00;Sebastian;Red Bull
+984;2023-01-27 15:08:00;Sebastian;Red Bull
+985;2023-01-27 15:04:00;Peder;Smirnoff ice tropical
+986;2023-01-27 15:04:00;Maria;Smirnoff ice tropical
+987;2023-01-27 14:36:00;Anna;Red Bull
+988;2023-01-27 14:30:00;Benjamin;Coca Cola Zero 0,33
+989;2023-01-27 13:26:00;Victoria;Red Bull
+990;2023-01-27 12:47:00;Maria;Brus 0,3
+991;2023-01-27 12:06:00;Anna;Olden Eple
+992;2023-01-25 15:10:00;Emma;Red Bull
+993;2023-01-25 09:43:00;Jonas;Red Bull
+994;2023-01-24 14:08:00;Emma;Red Bull
+995;2023-01-24 14:07:00;Maja;Eplemost
+996;2023-01-23 11:14:00;Sebastian;Brus 0,3
+997;2023-01-23 09:29:00;Maria;Red Bull
+998;2023-01-23 08:09:00;Jonas;Red Bull
+999;2023-01-20 15:57:00;Maria;Coca Cola Zero 0,33
+1000;2023-01-20 14:44:00;Benjamin;Coca Cola Zero 0,33
+1001;2023-01-20 10:06:00;Maria;Red Bull
+1002;2023-01-19 23:02:00;Jakob;Olden Eple
+1003;2023-01-19 20:35:00;Maja;Hard Seltzer Grapefruit
+1004;2023-01-19 20:30:00;Filip;Coca Cola Zero 0,33
+1005;2023-01-19 19:43:00;Benjamin;Coca Cola Zero 0,33
+1006;2023-01-19 19:42:00;Sebastian;Olden Eple
+1007;2023-01-19 19:42:00;Maria;Coca Cola Zero 0,33
+1008;2023-01-19 19:21:00;Filip;Eplemost
+1009;2023-01-19 18:05:00;Sebastian;Brus 0,3
+1010;2023-01-19 18:04:00;Lucas;Olden Eple
+1011;2023-01-19 17:41:00;Benjamin;Red Bull
+1012;2023-01-19 17:17:00;Maja;Red Bull
+1013;2023-01-19 17:14:00;Maja;Red Bull
+1014;2023-01-19 16:58:00;Benjamin;Eplemost
+1015;2023-01-19 15:14:00;Sebastian;Red Bull
+1016;2023-01-19 10:05:00;Maria;Red Bull
+1017;2023-01-18 16:49:00;Maria;Hansa Pils 0,33
+1018;2023-01-18 16:49:00;Maria;Hansa Pils 0,33
+1019;2023-01-18 16:49:00;Maria;Hansa Pils 0,33
+1020;2023-01-18 16:49:00;Maria;Smirnoff ice original
+1021;2023-01-18 16:46:00;Peder;Smirnoff ice original
+1022;2023-01-18 12:08:00;Peder;Red Bull
+1023;2023-01-18 02:09:00;Lucas;Olden Eple
+1024;2023-01-17 16:00:00;Sebastian;Smirnoff ice original
+1025;2023-01-17 15:04:00;Jakob;Red Bull
+1026;2023-01-17 14:40:00;Peder;Coca Cola Zero 0,33
+1027;2023-01-17 14:09:00;Lucas;Olden Eple
+1028;2023-01-17 14:03:00;Maja;Eplemost
+1029;2023-01-17 12:16:00;Anna;Olden Eple
+1030;2023-01-17 12:14:00;Markus;Red Bull
+1031;2023-01-17 08:08:00;Maria;Red Bull
+1032;2023-01-16 18:08:00;Jonas;Smirnoff ice original
+1033;2023-01-16 17:50:00;Jonas;Breezer
+1034;2023-01-16 17:50:00;Jonas;Red Bull
+1035;2023-01-16 15:08:00;Herman;Red Bull
+1036;2023-01-16 15:01:00;Maria;Coca Cola Zero 0,33
+1037;2023-01-16 14:10:00;Maja;Olden Eple
+1038;2023-01-16 13:05:00;Sebastian;Red Bull
+1039;2023-01-16 13:05:00;Peder;Red Bull
+1040;2023-01-16 11:18:00;Sebastian;Olden Eple
+1041;2023-01-15 21:26:00;Ingrid;Brus 0,3
+1042;2023-01-15 20:10:00;Lucas;Coca Cola Zero 0,33
+1043;2023-01-15 19:34:00;Ingrid;Red Bull
+1044;2023-01-15 15:11:00;Maria;Coca Cola Zero 0,33
+1045;2023-01-14 20:50:00;Peder;Hard Seltzer Grapefruit
+1046;2023-01-14 20:50:00;Peder;Hansa Pils 0,33
+1047;2023-01-14 20:50:00;Peder;Hansa Pils 0,33
+1048;2023-01-14 20:50:00;Peder;Hansa Pils 0,33
+1049;2023-01-14 16:17:00;Benjamin;Eplemost
+1050;2023-01-13 23:06:00;Benjamin;Hansa Pils 0,33
+1051;2023-01-13 23:06:00;Maja;Hansa Pils 0,33
+1052;2023-01-13 23:05:00;Ella;Hansa Pils 0,33
+1053;2023-01-13 23:05:00;Peder;Hansa Pils 0,33
+1054;2023-01-13 22:33:00;Ella;Hansa Pils 0,33
+1055;2023-01-13 22:33:00;Peder;Hansa Pils 0,33
+1056;2023-01-13 22:04:00;Peder;Hansa Pils 0,33
+1057;2023-01-13 22:03:00;Ella;Hansa Pils 0,33
+1058;2023-01-13 21:39:00;Peder;Eplemost
+1059;2023-01-13 21:39:00;Peder;Hansa Pils 0,33
+1060;2023-01-13 21:39:00;Peder;Hansa Pils 0,33
+1061;2023-01-13 21:39:00;Peder;Hansa Pils 0,33
+1062;2023-01-13 21:39:00;Peder;Hansa Pils 0,33
+1063;2023-01-13 21:33:00;Maja;Hansa Pils 0,33
+1064;2023-01-13 21:25:00;Ella;Hansa Pils 0,33
+1065;2023-01-13 21:22:00;Maja;Smirnoff ice original
+1066;2023-01-13 21:01:00;Maja;Hansa Pils 0,33
+1067;2023-01-13 20:44:00;Peder;Hard Seltzer Grapefruit
+1068;2023-01-13 20:35:00;Ella;Hansa Pils 0,33
+1069;2023-01-13 20:25:00;Maja;Hansa Pils 0,33
+1070;2023-01-13 20:17:00;Lucas;Smirnoff ice original
+1071;2023-01-13 19:41:00;Maria;Hansa Pils 0,33
+1072;2023-01-13 19:30:00;Peder;Hansa Pils 0,33
+1073;2023-01-13 19:30:00;Maja;Hansa Pils 0,33
+1074;2023-01-13 19:13:00;Benjamin;Hansa Pils 0,33
+1075;2023-01-13 19:12:00;Ella;Hansa Pils 0,33
+1076;2023-01-13 19:02:00;Lucas;Breezer
+1077;2023-01-13 18:46:00;Maja;Hansa Pils 0,33
+1078;2023-01-13 18:31:00;Maria;Hansa Pils 0,33
+1079;2023-01-13 18:16:00;Victoria;Brus 0,3
+1080;2023-01-13 18:16:00;Peder;Hansa Pils 0,33
+1081;2023-01-13 18:16:00;Ella;Hansa Pils 0,33
+1082;2023-01-13 18:10:00;Benjamin;Hansa Pils 0,33
+1083;2023-01-13 17:49:00;Maria;Brus 0,3
+1084;2023-01-13 17:10:00;Ella;Hansa Pils 0,33
+1085;2023-01-13 17:10:00;Peder;Hansa Pils 0,33
+1086;2023-01-13 16:40:00;Ella;Eplemost
+1087;2023-01-13 14:42:00;Ingrid;Red Bull
+1088;2023-01-13 11:14:00;Anna;Red Bull
+1089;2023-01-13 10:59:00;Sebastian;Olden Eple
+1090;2023-01-13 09:32:00;Maria;Eplemost
+1091;2023-01-12 18:03:00;Lucas;Coca Cola Zero 0,33
+1092;2023-01-12 18:01:00;Peder;Hansa Pils 0,33
+1093;2023-01-12 18:01:00;Sebastian;Juleål
+1094;2023-01-12 18:00:00;Ella;Hansa Pils 0,33
+1095;2023-01-12 17:09:00;Ingrid;Eplemost
+1096;2023-01-12 17:08:00;Victoria;Eplemost
+1097;2023-01-12 17:07:00;Ella;Eplemost
+1098;2023-01-12 17:00:00;Maja;Hansa Pils 0,33
+1099;2023-01-12 16:58:00;Peder;Hansa Pils 0,33
+1100;2023-01-12 16:58:00;Lucas;Olden Eple
+1101;2023-01-12 15:41:00;Sebastian;Hansa Pils 0,33
+1102;2023-01-12 15:40:00;Maja;Hansa Pils 0,33
+1103;2023-01-12 15:40:00;Ella;Hansa Pils 0,33
+1104;2023-01-12 15:29:00;Sebastian;Red Bull
+1105;2023-01-12 14:34:00;Peder;Red Bull
+1106;2023-01-11 16:22:00;Maja;Eplemost
+1107;2023-01-10 21:03:00;Lucas;Breezer
+1108;2023-01-10 14:16:00;Lucas;Olden Eple
+1109;2023-01-10 09:17:00;Sebastian;Red Bull
+1110;2023-01-10 08:05:00;Maria;Red Bull
+1111;2023-01-09 17:49:00;Maria;Brus 0,3
+1112;2023-01-09 11:16:00;Maja;Red Bull
+1113;2023-01-08 16:48:00;Maria;Red Bull
+1114;2023-01-07 22:30:00;Ella;Hansa Pils 0,33
+1115;2023-01-07 21:38:00;Ella;Hard Seltzer Grapefruit
+1116;2023-01-07 21:09:00;Maja;Hard Seltzer Grapefruit
+1117;2023-01-07 21:09:00;Sebastian;Hansa Pils 0,33
+1118;2023-01-07 20:37:00;Maja;Hard Seltzer Grapefruit
+1119;2023-01-07 20:36:00;Ella;Hansa Pils 0,33
+1120;2023-01-07 20:00:00;Sebastian;Hansa Pils 0,33
+1121;2023-01-07 19:52:00;Maja;Hansa Pils 0,33
+1122;2023-01-07 19:52:00;Ella;Hansa Pils 0,33
+1123;2022-12-21 11:34:00;Maria;Red Bull
+1124;2022-12-21 00:10:00;Ella;Hansa Pils 0,33
+1125;2022-12-21 00:10:00;Ella;Hansa Pils 0,33
+1126;2022-12-20 23:06:00;Ella;Hansa Pils 0,33
+1127;2022-12-20 22:10:00;Ella;Hansa Pils 0,33
+1128;2022-12-20 21:26:00;Ella;Hansa Pils 0,33
+1129;2022-12-20 21:15:00;Sebastian;Hansa Pils 0,33
+1130;2022-12-20 20:46:00;Sebastian;Hansa Fatål 0,33
+1131;2022-12-20 20:41:00;Ella;Hansa Pils 0,33
+1132;2022-12-20 20:24:00;Maria;Hansa Pils 0,33
+1133;2022-12-20 20:24:00;Maria;Hansa Pils 0,33
+1134;2022-12-20 20:24:00;Maria;Hansa Pils 0,33
+1135;2022-12-20 20:02:00;Ella;Hansa Pils 0,33
+1136;2022-12-20 18:18:00;Ella;Red Bull
+1137;2022-12-20 14:59:00;Leah;Olden Eple
+1138;2022-12-19 19:15:00;Erik;Red Bull
+1139;2022-12-19 14:52:00;Oscar;Brus 0,3
+1140;2022-12-19 14:09:00;Ella;Olden Eple
+1141;2022-12-19 14:05:00;Nora;Hansa Pils 0,33
+1142;2022-12-19 14:03:00;Nora;Hansa Pils 0,33
+1143;2022-12-19 14:00:00;Oscar;Hansa Pils 0,33
+1144;2022-12-19 13:19:00;Lucas;Breezer
+1145;2022-12-19 13:02:00;Emil;Breezer
+1146;2022-12-19 13:02:00;Oscar;Hansa Pils 0,33
+1147;2022-12-19 12:56:00;Maria;Red Bull
+1148;2022-12-19 09:34:00;Maria;Red Bull
+1149;2022-12-18 14:39:00;Emma;Brus 0,3
+1150;2022-12-18 14:30:00;Oscar;Brus 0,3
+1151;2022-12-18 14:00:00;Oscar;Brus 0,3
+1152;2022-12-18 12:40:00;Emma;Olden Eple
+1153;2022-12-18 11:07:00;Ella;Red Bull
+1154;2022-12-17 16:41:00;Lucas;Olden Eple
+1155;2022-12-17 14:46:00;Oscar;Brus 0,3
+1156;2022-12-17 13:50:00;Leah;Olden Eple
+1157;2022-12-17 13:41:00;Maria;Red Bull
+1158;2022-12-17 13:32:00;Maria;Red Bull
+1159;2022-12-17 13:32:00;Maria;Red Bull
+1160;2022-12-17 10:17:00;Ella;Red Bull
+1161;2022-12-16 19:53:00;Lucas;Olden Eple
+1162;2022-12-16 16:33:00;Ella;Red Bull
+1163;2022-12-16 16:33:00;Ella;Olden Eple
+1164;2022-12-16 16:21:00;Sebastian;Olden Eple
+1165;2022-12-16 16:10:00;Benjamin;Brus 0,3
+1166;2022-12-16 15:27:00;Ella;Olden Eple
+1167;2022-12-16 15:20:00;Victoria;Brus 0,3
+1168;2022-12-16 12:24:00;Lucas;Coca Cola Zero 0,33
+1169;2022-12-16 12:08:00;Emma;Red Bull
+1170;2022-12-15 21:22:00;Maria;Red Bull
+1171;2022-12-15 18:21:00;Emma;Olden Eple
+1172;2022-12-15 18:18:00;Lucas;Olden Eple
+1173;2022-12-15 17:08:00;Benjamin;Coca Cola Zero 0,33
+1174;2022-12-15 16:51:00;Ella;Olden Eple
+1175;2022-12-15 16:01:00;Leah;Brus 0,3
+1176;2022-12-15 15:53:00;Lucas;Coca Cola Zero 0,33
+1177;2022-12-15 14:53:00;Ella;Red Bull
+1178;2022-12-14 20:59:00;Sebastian;Hansa Pils 0,33
+1179;2022-12-14 20:59:00;Sebastian;Hansa Pils 0,33
+1180;2022-12-14 20:50:00;Oliver;Hansa Pils 0,33
+1181;2022-12-14 20:24:00;Anna;Hansa Pils 0,33
+1182;2022-12-14 20:24:00;Anna;Hansa Pils 0,33
+1183;2022-12-14 20:24:00;Anna;Hansa Pils 0,33
+1184;2022-12-14 20:01:00;Oliver;Brus 0,3
+1185;2022-12-14 19:04:00;Ella;Red Bull
+1186;2022-12-14 19:03:00;Maria;Red Bull
+1187;2022-12-14 17:12:00;Lucas;Olden Eple
+1188;2022-12-14 17:00:00;Anna;Red Bull
+1189;2022-12-14 16:54:00;Ella;Red Bull
+1190;2022-12-14 16:36:00;Peder;Brus 0,3
+1191;2022-12-14 16:28:00;Sebastian;Coca Cola Zero 0,33
+1192;2022-12-14 16:27:00;Benjamin;Coca Cola Zero 0,33
+1193;2022-12-14 14:21:00;Emma;Red Bull
+1194;2022-12-14 13:40:00;Leah;Red Bull
+1195;2022-12-14 13:27:00;Ingrid;Red Bull
+1196;2022-12-14 09:59:00;Maria;Red Bull
+1197;2022-12-13 19:50:00;Benjamin;Coca Cola Zero 0,33
+1198;2022-12-13 19:41:00;Oliver;Brus 0,3
+1199;2022-12-13 17:48:00;Peder;Brus 0,3
+1200;2022-12-13 16:43:00;Lucas;Olden Eple
+1201;2022-12-13 16:13:00;Frida;Coca Cola Zero 0,33
+1202;2022-12-13 15:53:00;Filip;Brus 0,3
+1203;2022-12-13 15:49:00;Filip;Brus 0,3
+1204;2022-12-13 14:54:00;Leah;Brus 0,3
+1205;2022-12-13 14:31:00;Lucas;Coca Cola Zero 0,33
+1206;2022-12-13 13:11:00;Maria;Red Bull
+1207;2022-12-13 08:01:00;Maria;Red Bull
+1208;2022-12-12 17:02:00;Benjamin;Coca Cola Zero 0,33
+1209;2022-12-12 16:35:00;Emma;Julebrus
+1210;2022-12-12 15:50:00;Oliver;Brus 0,3
+1211;2022-12-11 19:13:00;Filip;Hansa Pils 0,33
+1212;2022-12-11 19:13:00;Filip;Hansa Pils 0,33
+1213;2022-12-11 19:13:00;Filip;Hansa Pils 0,33
+1214;2022-12-11 17:43:00;Leah;Brus 0,3
+1215;2022-12-11 12:04:00;Maria;Red Bull
+1216;2022-12-10 20:21:00;Filip;Brus 0,3
+1217;2022-12-10 20:09:00;Emma;Coca Cola Zero 0,33
+1218;2022-12-10 20:08:00;Filip;Coca Cola Zero 0,33
+1219;2022-12-10 20:07:00;Benjamin;Coca Cola Zero 0,33
+1220;2022-12-10 18:00:00;Oscar;Brus 0,3
+1221;2022-12-10 17:32:00;Filip;Brus 0,3
+1222;2022-12-10 15:22:00;Benjamin;Coca Cola Zero 0,33
+1223;2022-12-10 13:43:00;Emma;Red Bull
+1224;2022-12-09 17:56:00;Peder;Hansa Pils 0,33
+1225;2022-12-09 17:56:00;Peder;Hansa Pils 0,33
+1226;2022-12-09 16:14:00;Benjamin;Coca Cola Zero 0,33
+1227;2022-12-09 15:51:00;Frida;Coca Cola Zero 0,33
+1228;2022-12-09 15:31:00;Lucas;Coca Cola Zero 0,33
+1229;2022-12-09 12:18:00;Maria;Red Bull
+1230;2022-12-08 22:30:00;Sebastian;Hansa Pils 0,33
+1231;2022-12-08 22:30:00;Filip;Hansa Pils 0,33
+1232;2022-12-08 22:29:00;Benjamin;Hansa Pils 0,33
+1233;2022-12-08 21:04:00;Ella;Brus 0,3
+1234;2022-12-08 20:54:00;Emma;Brus 0,3
+1235;2022-12-08 18:33:00;Filip;Olden Eple
+1236;2022-12-08 17:34:00;Emma;Red Bull
+1237;2022-12-08 17:24:00;Ella;Olden Eple
+1238;2022-12-08 16:46:00;Oscar;Julebrus
+1239;2022-12-08 15:35:00;Benjamin;Appelsin Juice
+1240;2022-12-08 15:03:00;Lucas;Coca Cola Zero 0,33
+1241;2022-12-08 15:01:00;Peder;Julebrus
+1242;2022-12-08 15:01:00;Maria;Julebrus
+1243;2022-12-08 14:59:00;William;Julebrus
+1244;2022-12-08 14:36:00;Ella;Red Bull
+1245;2022-12-08 13:17:00;Sebastian;Brus 0,3
+1246;2022-12-07 20:04:00;Emma;Brus 0,3
+1247;2022-12-07 08:18:00;Emma;Olden Eple
+1248;2022-12-06 22:00:00;Oliver;Brus 0,3
+1249;2022-12-06 20:01:00;Filip;Brus 0,3
+1250;2022-12-06 19:24:00;Emma;Coca Cola Zero 0,33
+1251;2022-12-06 16:59:00;Ella;Red Bull
+1252;2022-12-06 16:30:00;Maria;Brus 0,3
+1253;2022-12-06 16:17:00;Benjamin;Appelsin Juice
+1254;2022-12-06 13:40:00;Leah;Red Bull
+1255;2022-12-06 13:13:00;Benjamin;Appelsin Juice
+1256;2022-12-05 23:25:00;Ella;Juleål
+1257;2022-12-05 23:08:00;Filip;Breezer
+1258;2022-12-05 22:49:00;Jonas;Hard Seltzer Mango
+1259;2022-12-05 22:47:00;Maja;Juleål
+1260;2022-12-05 22:38:00;Markus;Breezer
+1261;2022-12-05 21:40:00;Ella;Juleål
+1262;2022-12-05 21:20:00;William;Breezer
+1263;2022-12-05 21:20:00;William;Breezer
+1264;2022-12-05 21:01:00;Sebastian;Hansa Pils 0,33
+1265;2022-12-05 21:01:00;Sebastian;Hansa Pils 0,33
+1266;2022-12-05 20:55:00;Lucas;Breezer
+1267;2022-12-05 19:55:00;Markus;Breezer
+1268;2022-12-05 19:07:00;Victoria;Brus 0,3
+1269;2022-12-05 19:07:00;Victoria;Brus 0,3
+1270;2022-12-05 19:06:00;Sebastian;Brus 0,3
+1271;2022-12-05 19:06:00;Sebastian;Brus 0,3
+1272;2022-12-05 19:05:00;Peder;Juleål
+1273;2022-12-05 18:48:00;Malin;Hansa Pils 0,33
+1274;2022-12-05 18:41:00;Filip;Hansa Pils 0,33
+1275;2022-12-05 18:40:00;Markus;Breezer
+1276;2022-12-05 18:40:00;Jonas;Breezer
+1277;2022-12-05 18:37:00;Anna;Hansa Pils 0,33
+1278;2022-12-05 18:26:00;Maja;Hansa Pils 0,33
+1279;2022-12-05 18:26:00;Maja;Hansa Pils 0,33
+1280;2022-12-05 18:26:00;Maja;Hansa Pils 0,33
+1281;2022-12-05 18:19:00;Oscar;Hard Seltzer Grapefruit
+1282;2022-12-05 18:17:00;Sebastian;Brus 0,3
+1283;2022-12-05 18:10:00;Andreas;Hansa Pils 0,33
+1284;2022-12-05 18:01:00;Maja;Hansa Pils 0,33
+1285;2022-12-05 15:54:00;Sebastian;Hansa Pils 0,33
+1286;2022-12-05 14:43:00;Sebastian;Brus 0,3
+1287;2022-12-05 13:28:00;Markus;Red Bull
+1288;2022-12-05 13:21:00;Oliver;Brus 0,3
+1289;2022-12-05 12:46:00;Benjamin;Appelsin Juice
+1290;2022-12-05 08:37:00;Markus;Red Bull
+1291;2022-12-04 21:49:00;Oscar;Hansa Pils 0,33
+1292;2022-12-04 21:49:00;Oscar;Hansa Pils 0,33
+1293;2022-12-04 20:23:00;Malin;Coca Cola Zero 0,33
+1294;2022-12-04 20:23:00;Malin;Coca Cola Zero 0,33
+1295;2022-12-04 20:23:00;Malin;Coca Cola Zero 0,33
+1296;2022-12-04 20:23:00;Malin;Coca Cola Zero 0,33
+1297;2022-12-04 18:21:00;Oscar;Brus 0,3
+1298;2022-12-04 17:15:00;Oliver;Brus 0,3
+1299;2022-12-03 18:06:00;Filip;Brus 0,3
+1300;2022-12-03 16:23:00;Oliver;Olden Eple
+1301;2022-12-03 12:48:00;Frida;Olden Eple
+1302;2022-12-03 05:55:00;Lucas;Hard Seltzer Grapefruit
+1303;2022-12-03 05:55:00;Lucas;Hard Seltzer Grapefruit
+1304;2022-12-02 23:54:00;Peder;Breezer
+1305;2022-12-02 23:54:00;Peder;Breezer
+1306;2022-12-02 23:00:00;Jakob;Breezer
+1307;2022-12-02 22:59:00;Malin;Hansa Pils 0,33
+1308;2022-12-02 22:51:00;Peder;Hansa Pils 0,33
+1309;2022-12-02 22:44:00;Lucas;Breezer
+1310;2022-12-02 22:43:00;Oscar;Brus 0,3
+1311;2022-12-02 22:41:00;Filip;Hansa Pils 0,33
+1312;2022-12-02 22:36:00;Maja;Hansa Pils 0,33
+1313;2022-12-02 22:36:00;Ingrid;Hansa Pils 0,33
+1314;2022-12-02 22:36:00;Ingrid;Hansa Pils 0,33
+1315;2022-12-02 22:11:00;Malin;Hansa Pils 0,33
+1316;2022-12-02 22:10:00;Oscar;Brus 0,3
+1317;2022-12-02 22:09:00;Ingrid;Hansa Pils 0,33
+1318;2022-12-02 22:09:00;Malin;Hansa Pils 0,33
+1319;2022-12-02 22:02:00;Peder;Hard Seltzer Mango
+1320;2022-12-02 21:55:00;Filip;Hansa Pils 0,33
+1321;2022-12-02 21:38:00;Malin;Hansa Pils 0,33
+1322;2022-12-02 21:34:00;Filip;Hansa Pils 0,33
+1323;2022-12-02 21:33:00;Ingrid;Hansa Pils 0,33
+1324;2022-12-02 21:27:00;Malin;Breezer
+1325;2022-12-02 21:27:00;Peder;Breezer
+1326;2022-12-02 21:27:00;Ingrid;Breezer
+1327;2022-12-02 21:26:00;Lucas;Breezer
+1328;2022-12-02 21:26:00;Filip;Breezer
+1329;2022-12-02 21:19:00;Malin;Hansa Pils 0,33
+1330;2022-12-02 21:14:00;Ingrid;Hansa Pils 0,33
+1331;2022-12-02 21:14:00;Ingrid;Hansa Pils 0,33
+1332;2022-12-02 21:11:00;Peder;Hard Seltzer Mango
+1333;2022-12-02 21:08:00;Malin;Hansa Pils 0,33
+1334;2022-12-02 20:53:00;Jakob;Hard Seltzer Grapefruit
+1335;2022-12-02 20:35:00;Malin;Hansa Pils 0,33
+1336;2022-12-02 20:32:00;Malin;Hansa Pils 0,33
+1337;2022-12-02 20:25:00;Sebastian;Hansa Pils 0,33
+1338;2022-12-02 20:20:00;Maja;Hard Seltzer Mango
+1339;2022-12-02 20:09:00;Malin;Juleål
+1340;2022-12-02 20:08:00;Lucas;Hard Seltzer Mango
+1341;2022-12-02 20:06:00;Peder;Hansa Pils 0,33
+1342;2022-12-02 19:56:00;Ingrid;Hansa Pils 0,33
+1343;2022-12-02 19:55:00;Malin;Hansa Pils 0,33
+1344;2022-12-02 19:30:00;Jakob;Hard Seltzer Grapefruit
+1345;2022-12-02 19:30:00;Jakob;Hard Seltzer Grapefruit
+1346;2022-12-02 19:30:00;Maja;Hansa Pils 0,33
+1347;2022-12-02 19:15:00;Ella;Hansa Pils 0,33
+1348;2022-12-02 19:14:00;Amalie;Hansa Pils 0,33
+1349;2022-12-02 19:14:00;Peder;Hansa Pils 0,33
+1350;2022-12-02 19:12:00;Filip;Brus 0,3
+1351;2022-12-02 18:53:00;Maja;Hansa Pils 0,33
+1352;2022-12-02 18:28:00;Jakob;Brus 0,3
+1353;2022-12-02 18:14:00;Peder;Hansa Pils 0,33
+1354;2022-12-02 18:14:00;Ingrid;Hansa Pils 0,33
+1355;2022-12-02 18:14:00;Victoria;Brus 0,3
+1356;2022-12-02 18:12:00;Ella;Brus 0,3
+1357;2022-12-02 16:21:00;Ella;Olden Eple
+1358;2022-12-01 21:26:00;Ella;Hansa Pils 0,33
+1359;2022-12-01 20:23:00;Lucas;Coca Cola Zero 0,33
+1360;2022-12-01 20:05:00;Sebastian;Hansa Pils 0,33
+1361;2022-12-01 19:30:00;Lucas;Hard Seltzer Grapefruit
+1362;2022-12-01 19:28:00;Ella;Hansa Pils 0,33
+1363;2022-12-01 18:15:00;Andreas;Hansa Pils 0,33
+1364;2022-12-01 18:08:00;Malin;Hansa Pils 0,33
+1365;2022-12-01 17:53:00;Ella;Hansa Pils 0,33
+1366;2022-12-01 17:51:00;Benjamin;Hansa Pils 0,33
+1367;2022-12-01 17:50:00;Sebastian;Hansa Pils 0,33
+1368;2022-12-01 16:57:00;Benjamin;Brus 0,3
+1369;2022-12-01 16:54:00;Malin;Coca Cola Zero 0,33
+1370;2022-12-01 16:10:00;Maria;Red Bull
+1371;2022-12-01 14:18:00;Benjamin;Appelsin Juice
+1372;2022-11-30 21:06:00;Filip;Brus 0,3
+1373;2022-11-30 21:03:00;Oscar;Brus 0,3
+1374;2022-11-30 17:06:00;Oliver;Appelsin Juice
+1375;2022-11-30 14:33:00;Maria;Red Bull
+1376;2022-11-30 14:28:00;Oliver;Brus 0,3
+1377;2022-11-30 14:26:00;Leah;Red Bull
+1378;2022-11-30 14:25:00;Leah;Red Bull
+1379;2022-11-30 12:52:00;Filip;Olden Eple
+1380;2022-11-29 20:19:00;Filip;Coca Cola Zero 0,33
+1381;2022-11-29 20:18:00;Filip;Hansa Pils 0,33
+1382;2022-11-29 20:15:00;Filip;Olden Eple
+1383;2022-11-29 17:28:00;Malin;Coca Cola Zero 0,33
+1384;2022-11-29 17:22:00;Oliver;Brus 0,3
+1385;2022-11-29 16:47:00;Benjamin;Red Bull
+1386;2022-11-29 16:31:00;Sebastian;Coca Cola Zero 0,33
+1387;2022-11-29 14:23:00;Peder;Red Bull
+1388;2022-11-29 13:17:00;Frida;Olden Eple
+1389;2022-11-28 21:55:00;Peder;Hard Seltzer Mango
+1390;2022-11-28 21:55:00;Peder;Hard Seltzer Mango
+1391;2022-11-28 21:55:00;Peder;Hard Seltzer Mango
+1392;2022-11-28 21:55:00;Peder;Hard Seltzer Mango
+1393;2022-11-28 21:55:00;Peder;Hard Seltzer Grapefruit
+1394;2022-11-28 21:55:00;Peder;Hard Seltzer Grapefruit
+1395;2022-11-28 21:55:00;Peder;Hard Seltzer Grapefruit
+1396;2022-11-28 21:55:00;Peder;Hard Seltzer Grapefruit
+1397;2022-11-28 21:55:00;Peder;Hard Seltzer Grapefruit
+1398;2022-11-28 21:55:00;Peder;Hard Seltzer Grapefruit
+1399;2022-11-28 18:19:00;Frida;Coca Cola Zero 0,33
+1400;2022-11-28 18:18:00;Frida;Olden Eple
+1401;2022-11-28 14:56:00;Oliver;Brus 0,3
+1402;2022-11-28 14:35:00;Frida;Brus 0,3
+1403;2022-11-28 13:18:00;Sebastian;Brus 0,3
+1404;2022-11-28 13:10:00;Filip;Red Bull
+1405;2022-11-28 13:10:00;Oscar;Red Bull
+1406;2022-11-28 11:39:00;Sara;Red Bull
+1407;2022-11-27 18:07:00;Benjamin;Brus 0,3
+1408;2022-11-27 18:00:00;Benjamin;Coca Cola Zero 0,33
+1409;2022-11-27 17:16:00;Oscar;Brus 0,3
+1410;2022-11-27 01:56:00;Amalie;Breezer
+1411;2022-11-26 14:10:00;Oscar;Olden Eple
+1412;2022-11-26 00:50:00;Benjamin;Breezer
+1413;2022-11-26 00:50:00;Benjamin;Hansa Fatål 0,33
+1414;2022-11-26 00:50:00;Filip;Hansa Pils 0,33
+1415;2022-11-26 00:50:00;Filip;Hansa Pils 0,33
+1416;2022-11-26 00:50:00;Filip;Breezer
+1417;2022-11-26 00:50:00;Filip;Breezer
+1418;2022-11-25 23:59:00;Benjamin;Breezer
+1419;2022-11-25 23:59:00;Filip;Breezer
+1420;2022-11-25 23:56:00;Sebastian;Brus 0,3
+1421;2022-11-25 16:53:00;Benjamin;Red Bull
+1422;2022-11-25 16:12:00;Emma;Hansa Pils 0,33
+1423;2022-11-25 13:09:00;Nora;Coca Cola Zero 0,33
+1424;2022-11-25 13:09:00;Hannah;Hansa Pils 0,33
+1425;2022-11-25 13:07:00;Emma;Hansa Pils 0,33
+1426;2022-11-25 13:07:00;Benjamin;Hansa Pils 0,33
+1427;2022-11-25 12:40:00;Frida;Breezer
+1428;2022-11-25 12:40:00;Leah;Brus 0,3
+1429;2022-11-25 12:40:00;Emma;Hard Seltzer Mango
+1430;2022-11-25 12:29:00;Lucas;Breezer
+1431;2022-11-25 12:28:00;Emil;Hansa Pils 0,33
+1432;2022-11-25 12:27:00;Frida;Breezer
+1433;2022-11-25 12:27:00;Oliver;Hansa Pils 0,33
+1434;2022-11-25 12:19:00;Emma;Hansa Pils 0,33
+1435;2022-11-25 12:16:00;Benjamin;Brus 0,3
+1436;2022-11-25 12:14:00;Leah;Hansa Pils 0,33
+1437;2022-11-24 18:45:00;Malin;Hansa Pils 0,33
+1438;2022-11-24 18:45:00;Malin;Hansa Pils 0,33
+1439;2022-11-24 18:45:00;Malin;Breezer
+1440;2022-11-24 17:31:00;Oscar;Coca Cola Zero 0,33
+1441;2022-11-24 15:50:00;Benjamin;Appelsin Juice
+1442;2022-11-24 15:24:00;Emma;Red Bull
+1443;2022-11-24 14:39:00;Maria;Coca Cola Zero 0,33
+1444;2022-11-24 14:38:00;Sebastian;Brus 0,3
+1445;2022-11-24 14:30:00;Oliver;Coca Cola Zero 0,33
+1446;2022-11-24 14:23:00;Maja;Brus 0,3
+1447;2022-11-24 13:08:00;Peder;Red Bull
+1448;2022-11-24 13:08:00;Ingrid;Red Bull
+1449;2022-11-24 11:23:00;Benjamin;Appelsin Juice
+1450;2022-11-24 11:10:00;Maria;Red Bull
+1451;2022-11-23 22:38:00;Emma;Appelsin Juice
+1452;2022-11-23 20:58:00;Leah;Brus 0,3
+1453;2022-11-23 19:31:00;Andreas;Olden Eple
+1454;2022-11-23 17:25:00;Andreas;Olden Eple
+1455;2022-11-23 17:03:00;Peder;Red Bull
+1456;2022-11-23 16:56:00;Oscar;Coca Cola Zero 0,33
+1457;2022-11-23 16:47:00;Filip;Red Bull
+1458;2022-11-23 12:48:00;Leah;Red Bull
+1459;2022-11-22 19:44:00;Aksel;Olden Eple
+1460;2022-11-22 19:08:00;William;Olden Eple
+1461;2022-11-22 17:40:00;Oliver;Red Bull
+1462;2022-11-22 16:02:00;Sebastian;Olden Eple
+1463;2022-11-22 12:46:00;Oliver;Olden Eple
+1464;2022-11-22 11:49:00;Maria;Red Bull
+1465;2022-11-21 21:50:00;Victoria;Olden Eple
+1466;2022-11-21 21:41:00;Filip;Olden Eple
+1467;2022-11-21 21:32:00;Sebastian;Hansa Pils 0,33
+1468;2022-11-21 21:31:00;Andreas;Hansa Pils 0,33
+1469;2022-11-21 20:01:00;Emma;Red Bull
+1470;2022-11-21 19:59:00;Benjamin;Hansa Pils 0,33
+1471;2022-11-21 19:58:00;Maja;Hansa Pils 0,33
+1472;2022-11-21 16:51:00;Emma;Olden Eple
+1473;2022-11-21 15:56:00;Sebastian;Hansa Pils 0,33
+1474;2022-11-21 15:56:00;Hannah;Hansa Pils 0,33
+1475;2022-11-21 15:05:00;Oliver;Red Bull
+1476;2022-11-21 15:01:00;Benjamin;Coca Cola Zero 0,33
+1477;2022-11-21 14:07:00;Sebastian;Red Bull
+1478;2022-11-20 20:50:00;Emma;Olden Eple
+1479;2022-11-20 12:20:00;Benjamin;Coca Cola Zero 0,33
+1480;2022-11-19 20:28:00;Emma;Olden Eple
+1481;2022-11-19 18:44:00;Sander;Breezer
+1482;2022-11-19 18:44:00;Sander;Breezer
+1483;2022-11-19 16:10:00;Emma;Brus 0,3
+1484;2022-11-19 16:10:00;Benjamin;Brus 0,3
+1485;2022-11-19 14:37:00;Maria;Red Bull
+1486;2022-11-18 16:59:00;Emma;Red Bull
+1487;2022-11-18 09:59:00;Maria;Red Bull
+1488;2022-11-18 08:08:00;Emma;Red Bull
+1489;2022-11-18 07:50:00;Emma;Olden Eple
+1490;2022-11-17 20:02:00;Oliver;Olden Eple
+1491;2022-11-17 20:02:00;Oliver;Coca Cola Zero 0,33
+1492;2022-11-17 20:02:00;Oliver;Brus 0,3
+1493;2022-11-17 17:55:00;Nora;Brus 0,3
+1494;2022-11-17 17:06:00;Nora;Brus 0,3
+1495;2022-11-17 17:06:00;Nora;Brus 0,3
+1496;2022-11-17 14:40:00;Oliver;Brus 0,3
+1497;2022-11-17 13:59:00;Emma;Olden Eple
+1498;2022-11-17 09:40:00;Filip;Coca Cola Zero 0,33
+1499;2022-11-17 07:40:00;Emma;Appelsin Juice
+1500;2022-11-16 16:19:00;Amalie;Brus 0,3
+1501;2022-11-16 16:12:00;Filip;Eplemost
+1502;2022-11-16 12:35:00;Maria;Red Bull
+1503;2022-11-16 12:08:00;Filip;Eplemost
+1504;2022-11-15 21:21:00;Lucas;Coca Cola Zero 0,33
+1505;2022-11-15 16:25:00;Benjamin;Eplemost
+1506;2022-11-15 15:44:00;Benjamin;Appelsin Juice
+1507;2022-11-14 16:51:00;Ella;Hansa Pils 0,33
+1508;2022-11-14 13:06:00;Malin;Brus 0,3
+1509;2022-11-14 12:23:00;Ella;Olden Eple
+1510;2022-11-13 21:39:00;Oscar;Coca Cola Zero 0,33
+1511;2022-11-13 20:44:00;Sander;Eplemost
+1512;2022-11-13 18:31:00;Victoria;Eplemost
+1513;2022-11-13 18:24:00;Benjamin;Brus 0,3
+1514;2022-11-13 18:24:00;Emma;Brus 0,3
+1515;2022-11-13 16:08:00;Emma;Eplemost
+1516;2022-11-13 15:57:00;Emma;Red Bull
+1517;2022-11-13 14:06:00;Sebastian;Red Bull
+1518;2022-11-13 12:30:00;Emma;Red Bull
+1519;2022-11-12 19:46:00;Malin;Hansa Pils 0,33
+1520;2022-11-12 19:45:00;Malin;Hard Seltzer Mango
+1521;2022-11-12 19:45:00;Malin;Hard Seltzer Mango
+1522;2022-11-12 19:45:00;Malin;Hansa Pils 0,33
+1523;2022-11-12 19:45:00;Malin;Hansa Pils 0,33
+1524;2022-11-12 19:45:00;Malin;Hansa Pils 0,33
+1525;2022-11-12 19:45:00;Malin;Hansa Pils 0,33
+1526;2022-11-12 19:45:00;Malin;Hansa Pils 0,33
+1527;2022-11-12 19:45:00;Malin;Hansa Pils 0,33
+1528;2022-11-12 18:06:00;Oscar;Coca Cola Zero 0,33
+1529;2022-11-12 15:02:00;Emma;Red Bull
+1530;2022-11-12 12:33:00;Emma;Eplemost
+1531;2022-11-11 19:01:00;Benjamin;Eplemost
+1532;2022-11-11 15:35:00;Emma;Brus 0,3
+1533;2022-11-11 15:34:00;Leah;Eplemost
+1534;2022-11-11 15:33:00;Emma;Coca Cola Zero 0,33
+1535;2022-11-11 12:32:00;Mathias;Breezer
+1536;2022-11-11 12:32:00;Mathias;Breezer
+1537;2022-11-11 12:31:00;Mathias;Breezer
+1538;2022-11-11 12:31:00;Mathias;Breezer
+1539;2022-11-11 12:20:00;Emma;Olden Eple
+1540;2022-11-11 08:21:00;Emma;Red Bull
+1541;2022-11-11 08:10:00;Maria;Red Bull
+1542;2022-11-10 16:14:00;Lucas;Coca Cola Zero 0,33
+1543;2022-11-10 14:07:00;Oliver;Brus 0,3
+1544;2022-11-10 12:50:00;Leah;Eplemost
+1545;2022-11-09 15:57:00;Benjamin;Coca Cola Zero 0,33
+1546;2022-11-09 15:56:00;Emma;Brus 0,3
+1547;2022-11-09 14:12:00;Emma;Red Bull
+1548;2022-11-09 12:14:00;Emma;Olden Eple
+1549;2022-11-09 11:56:00;Sebastian;Olden Eple
+1550;2022-11-09 10:19:00;Malin;Red Bull
+1551;2022-11-09 10:19:00;Malin;Red Bull
+1552;2022-11-09 10:17:00;Benjamin;Eplemost
+1553;2022-11-08 15:49:00;Oliver;Eplemost
+1554;2022-11-08 15:49:00;Filip;Brus 0,3
+1555;2022-11-08 15:48:00;Oliver;Eplemost
+1556;2022-11-08 14:56:00;Filip;Eplemost
+1557;2022-11-08 12:47:00;Oliver;Brus 0,3
+1558;2022-11-08 11:44:00;Maria;Eplemost
+1559;2022-11-08 11:10:00;Filip;Eplemost
+1560;2022-11-07 18:31:00;Benjamin;Eplemost
+1561;2022-11-07 18:21:00;Thea;Red Bull
+1562;2022-11-07 14:10:00;Malin;Coca Cola Zero 0,33
+1563;2022-11-07 10:20:00;Oliver;Olden Eple
+1564;2022-11-06 21:31:00;Emma;Olden Eple
+1565;2022-11-06 21:31:00;Emma;Red Bull
+1566;2022-11-06 21:31:00;Emma;Eplemost
+1567;2022-11-06 19:38:00;Emma;Olden Eple
+1568;2022-11-06 17:46:00;Emma;Brus 0,3
+1569;2022-11-06 17:46:00;Emma;Brus 0,3
+1570;2022-11-06 14:59:00;Emma;Red Bull
+1571;2022-11-06 13:52:00;Benjamin;Eplemost
+1572;2022-11-06 13:49:00;Emma;Eplemost
+1573;2022-11-06 12:53:00;Frida;Eplemost
+1574;2022-11-06 12:11:00;Leah;Olden Eple
+1575;2022-11-06 00:12:00;Andreas;Hansa Pils 0,33
+1576;2022-11-05 18:01:00;Hannah;Hard Seltzer Grapefruit
+1577;2022-11-03 19:18:00;Emma;Brus 0,3
+1578;2022-11-03 16:14:00;Emma;Brus 0,3
+1579;2022-11-03 16:14:00;Emma;Brus 0,3
+1580;2022-11-03 15:48:00;Anna;Olden Eple
+1581;2022-11-03 14:23:00;Oliver;Brus 0,3
+1582;2022-11-03 14:16:00;Leah;Brus 0,3
+1583;2022-11-03 12:08:00;Emma;Red Bull
+1584;2022-11-03 12:04:00;Benjamin;Coca Cola Zero 0,33
+1585;2022-11-03 10:33:00;Anna;Brus 0,3
+1586;2022-11-02 21:24:00;Emma;Red Bull
+1587;2022-11-02 21:24:00;Emma;Red Bull
+1588;2022-11-02 15:04:00;Oliver;Red Bull
+1589;2022-11-02 12:34:00;Filip;Red Bull
+1590;2022-11-02 12:05:00;Benjamin;Red Bull
+1591;2022-11-01 16:51:00;Benjamin;Red Bull
+1592;2022-11-01 09:04:00;Sebastian;Red Bull
+1593;2022-10-30 15:43:00;Lucas;Red Bull
+1594;2022-10-29 18:11:00;Ingrid;Hansa Pils 0,33
+1595;2022-10-29 18:11:00;Ingrid;Hansa Pils 0,33
+1596;2022-10-29 16:59:00;Peder;Hard Seltzer Mango
+1597;2022-10-29 16:59:00;Peder;Hansa Pils 0,33
+1598;2022-10-29 14:52:00;Peder;Breezer
+1599;2022-10-28 21:34:00;Lucas;Breezer
+1600;2022-10-28 21:34:00;Lucas;Breezer
+1601;2022-10-28 16:07:00;Filip;Red Bull
+1602;2022-10-28 15:21:00;Oliver;Brus 0,3
+1603;2022-10-27 19:02:00;Emma;Hansa Pils 0,33
+1604;2022-10-27 19:02:00;Emma;Hansa Pils 0,33
+1605;2022-10-27 17:41:00;Oliver;Brus 0,3
+1606;2022-10-27 16:59:00;Filip;Brus 0,3
+1607;2022-10-27 13:42:00;Emma;Brus 0,3
+1608;2022-10-27 13:42:00;Leah;Brus 0,3
+1609;2022-10-27 12:17:00;Jakob;Coca Cola Zero 0,33
+1610;2022-10-27 11:43:00;Oliver;Red Bull
+1611;2022-10-27 09:40:00;Emma;Red Bull
+1612;2022-10-26 20:34:00;Emma;Coca Cola Zero 0,33
+1613;2022-10-26 18:48:00;Oliver;Red Bull
+1614;2022-10-26 18:25:00;Emma;Red Bull
+1615;2022-10-26 17:03:00;Ella;Brus 0,3
+1616;2022-10-26 15:58:00;Oliver;Brus 0,3
+1617;2022-10-26 15:04:00;Sebastian;Coca Cola Zero 0,33
+1618;2022-10-26 13:43:00;Ella;Red Bull
+1619;2022-10-26 08:46:00;Maria;Red Bull
+1620;2022-10-25 17:09:00;Emma;Brus 0,3
+1621;2022-10-25 16:09:00;Maja;Brus 0,3
+1622;2022-10-25 14:57:00;Leah;Brus 0,3
+1623;2022-10-25 14:49:00;Filip;Brus 0,3
+1624;2022-10-25 12:23:00;Benjamin;Red Bull
+1625;2022-10-25 09:08:00;Sebastian;Coca Cola Zero 0,33
+1626;2022-10-24 18:19:00;Emma;Coca Cola Zero 0,33
+1627;2022-10-24 18:19:00;Oliver;Hansa Pils 0,33
+1628;2022-10-24 16:00:00;Amalie;Brus 0,3
+1629;2022-10-24 14:19:00;Oliver;Coca Cola Zero 0,33
+1630;2022-10-24 08:45:00;Maria;Red Bull
+1631;2022-10-23 14:04:00;Benjamin;Coca Cola Zero 0,33
+1632;2022-10-23 14:03:00;Emma;Coca Cola Zero 0,33
+1633;2022-10-22 20:02:00;Emilie;Hard Seltzer Mango
+1634;2022-10-22 20:02:00;Emilie;Hard Seltzer Mango
+1635;2022-10-22 20:02:00;Emilie;Hansa Pils 0,33
+1636;2022-10-22 20:01:00;William;Hard Seltzer Mango
+1637;2022-10-22 19:12:00;Oscar;Brus 0,3
+1638;2022-10-22 01:20:00;Oscar;Breezer
+1639;2022-10-22 01:20:00;Oscar;Breezer
+1640;2022-10-22 00:52:00;Filip;Hard Seltzer Mango
+1641;2022-10-22 00:52:00;Filip;Hard Seltzer Mango
+1642;2022-10-22 00:52:00;Filip;Hard Seltzer Mango
+1643;2022-10-22 00:52:00;Filip;Hard Seltzer Mango
+1644;2022-10-21 23:54:00;William;Hansa Pils 0,33
+1645;2022-10-21 23:26:00;Filip;Brus 0,3
+1646;2022-10-21 23:26:00;Filip;Brus 0,3
+1647;2022-10-21 23:19:00;Peder;Hansa Pils 0,33
+1648;2022-10-21 23:13:00;Ingrid;Hansa Pils 0,33
+1649;2022-10-21 23:06:00;Peder;Hansa Pils 0,33
+1650;2022-10-21 23:06:00;Peder;Hansa Pils 0,33
+1651;2022-10-21 23:06:00;Peder;Hansa Pils 0,33
+1652;2022-10-21 23:06:00;Peder;Hansa Pils 0,33
+1653;2022-10-21 23:06:00;Peder;Hansa Pils 0,33
+1654;2022-10-21 23:06:00;Peder;Hansa Pils 0,33
+1655;2022-10-21 22:53:00;Oscar;Hard Seltzer Grapefruit
+1656;2022-10-21 22:24:00;Ingrid;Hansa Pils 0,33
+1657;2022-10-21 22:23:00;Peder;Hansa Pils 0,33
+1658;2022-10-21 21:51:00;Oscar;Hard Seltzer Grapefruit
+1659;2022-10-21 21:40:00;Peder;Hard Seltzer Grapefruit
+1660;2022-10-21 21:40:00;Peder;Hansa Pils 0,33
+1661;2022-10-21 21:39:00;William;Breezer
+1662;2022-10-21 21:38:00;Emil;Hard Seltzer Grapefruit
+1663;2022-10-21 20:05:00;Emma;Hansa Pils 0,33
+1664;2022-10-21 20:05:00;Emma;Hansa Pils 0,33
+1665;2022-10-21 20:05:00;Emma;Hard Seltzer Mango
+1666;2022-10-21 20:05:00;Emilie;Hard Seltzer Mango
+1667;2022-10-21 20:04:00;Oliver;Hansa Pils 0,33
+1668;2022-10-21 20:04:00;Oliver;Hansa Pils 0,33
+1669;2022-10-21 19:46:00;Emilie;Hard Seltzer Mango
+1670;2022-10-21 19:42:00;Oscar;Hard Seltzer Grapefruit
+1671;2022-10-21 19:13:00;Emil;Hard Seltzer Grapefruit
+1672;2022-10-21 18:58:00;Emil;Brus 0,3
+1673;2022-10-21 18:58:00;Emil;Hansa Pils 0,33
+1674;2022-10-21 18:48:00;William;Hansa Pils 0,33
+1675;2022-10-21 18:48:00;Peder;Hansa Pils 0,33
+1676;2022-10-21 16:50:00;Filip;Hard Seltzer Grapefruit
+1677;2022-10-21 16:50:00;Filip;Hard Seltzer Grapefruit
+1678;2022-10-21 16:50:00;Filip;Hard Seltzer Grapefruit
+1679;2022-10-21 15:11:00;Leah;Brus 0,3
+1680;2022-10-21 13:12:00;Ella;Hansa Pils 0,33
+1681;2022-10-21 11:57:00;Ella;Red Bull
+1682;2022-10-21 11:57:00;Ella;Red Bull
+1683;2022-10-21 11:57:00;Ella;Red Bull
+1684;2022-10-21 11:57:00;Ella;Red Bull
+1685;2022-10-20 22:59:00;Martin;Coca Cola Zero 0,33
+1686;2022-10-20 22:59:00;Martin;Coca Cola Zero 0,33
+1687;2022-10-20 18:30:00;Ella;Hard Seltzer Grapefruit
+1688;2022-10-20 18:07:00;Benjamin;Red Bull
+1689;2022-10-20 15:35:00;Emma;Brus 0,3
+1690;2022-10-20 15:35:00;Oliver;Brus 0,3
+1691;2022-10-20 15:35:00;Leah;Brus 0,3
+1692;2022-10-20 15:27:00;Ella;Red Bull
+1693;2022-10-20 13:46:00;Ella;Red Bull
+1694;2022-10-20 13:09:00;Ella;Red Bull
+1695;2022-10-19 22:19:00;Emma;Hansa Pils 0,33
+1696;2022-10-19 21:47:00;Emma;Hard Seltzer Mango
+1697;2022-10-19 21:47:00;Emma;Red Bull
+1698;2022-10-19 21:47:00;Emma;Olden Eple
+1699;2022-10-19 21:47:00;Emma;Brus 0,3
+1700;2022-10-19 21:47:00;Emma;Brus 0,3
+1701;2022-10-19 19:50:00;Leah;Brus 0,3
+1702;2022-10-18 20:14:00;Martin;Coca Cola Zero 0,33
+1703;2022-10-18 14:06:00;Oliver;Red Bull
+1704;2022-10-18 14:05:00;Oliver;Red Bull
+1705;2022-10-18 11:10:00;Oliver;Olden Eple
+1706;2022-10-17 21:25:00;Leah;Brus 0,3
+1707;2022-10-17 15:20:00;Benjamin;Brus 0,3
+1708;2022-10-17 10:54:00;Jakob;Red Bull
+1709;2022-10-16 23:17:00;Oscar;Hard Seltzer Grapefruit
+1710;2022-10-16 21:32:00;Emil;Hard Seltzer Grapefruit
+1711;2022-10-16 21:31:00;Oscar;Hard Seltzer Grapefruit
+1712;2022-10-16 20:21:00;Emil;Hard Seltzer Grapefruit
+1713;2022-10-16 20:20:00;Frida;Hard Seltzer Grapefruit
+1714;2022-10-16 20:20:00;Oscar;Hard Seltzer Grapefruit
+1715;2022-10-16 20:16:00;Andreas;Hard Seltzer Grapefruit
+1716;2022-10-16 18:46:00;Jakob;Red Bull
+1717;2022-10-16 16:58:00;Oscar;Hansa Pils 0,33
+1718;2022-10-16 16:58:00;Oscar;Breezer
+1719;2022-10-16 16:58:00;Oscar;Breezer
+1720;2022-10-16 16:58:00;Oscar;Hard Seltzer Mango
+1721;2022-10-16 16:58:00;Oscar;Hard Seltzer Grapefruit
+1722;2022-10-16 16:58:00;Oscar;Hard Seltzer Grapefruit
+1723;2022-10-16 16:58:00;Oscar;Hard Seltzer Grapefruit
+1724;2022-10-16 13:07:00;Lucas;Hard Seltzer Grapefruit
+1725;2022-10-16 13:07:00;Lucas;Breezer
+1726;2022-10-16 13:04:00;Emil;Grevens Pårecider 0,5
+1727;2022-10-16 13:04:00;Emil;Grevens Pårecider 0,5
+1728;2022-10-14 23:09:00;William;Breezer
+1729;2022-10-14 22:22:00;Mathias;Hard Seltzer Mango
+1730;2022-10-14 22:22:00;Mathias;Grevens Pårecider 0,5
+1731;2022-10-14 20:56:00;Mathias;Breezer
+1732;2022-10-14 19:48:00;Lucas;Olden Eple
+1733;2022-10-14 18:44:00;Maria;Red Bull
+1734;2022-10-14 16:00:00;Maria;Red Bull
+1735;2022-10-14 13:11:00;Emma;Brus 0,3
+1736;2022-10-14 11:29:00;Amalie;Brus 0,3
+1737;2022-10-13 16:17:00;Oliver;Hansa Pils 0,33
+1738;2022-10-13 16:15:00;Oliver;Brus 0,3
+1739;2022-10-13 15:54:00;Amalie;Brus 0,3
+1740;2022-10-13 15:27:00;Leah;Eplemost
+1741;2022-10-13 15:27:00;Oscar;Coca Cola Zero 0,33
+1742;2022-10-13 14:53:00;Andreas;Brus 0,3
+1743;2022-10-13 14:52:00;Emma;Brus 0,3
+1744;2022-10-13 12:32:00;Aksel;Olden Eple
+1745;2022-10-13 11:08:00;Emma;Red Bull
+1746;2022-10-12 17:20:00;William;Red Bull
+1747;2022-10-12 16:40:00;Oliver;Red Bull
+1748;2022-10-12 16:37:00;Lucas;Olden Eple
+1749;2022-10-12 14:25:00;Leah;Brus 0,3
+1750;2022-10-12 11:03:00;Maria;Red Bull
+1751;2022-10-11 14:28:00;Emma;Brus 0,3
+1752;2022-10-11 12:53:00;Maria;Red Bull
+1753;2022-10-10 16:48:00;Oscar;Eplemost
+1754;2022-10-10 15:06:00;Anna;Red Bull
+1755;2022-10-10 15:06:00;Anna;Red Bull
+1756;2022-10-10 14:12:00;Peder;Red Bull
+1757;2022-10-10 14:12:00;Peder;Red Bull
+1758;2022-10-10 14:11:00;Ella;Red Bull
+1759;2022-10-10 13:11:00;Filip;Brus 0,3
+1760;2022-10-09 18:21:00;Ella;Olden Eple
+1761;2022-10-09 14:51:00;Ella;Red Bull
+1762;2022-10-09 01:57:00;William;Coca Cola Zero 0,33
+1763;2022-10-08 16:20:00;Oscar;Eplemost
+1764;2022-10-08 14:58:00;Oscar;Olden Eple
+1765;2022-10-08 14:53:00;Filip;Eplemost
+1766;2022-10-08 00:55:00;Lucas;Olden Eple
+1767;2022-10-07 23:44:00;Victoria;Coca Cola Zero 0,33
+1768;2022-10-07 18:03:00;Lucas;Coca Cola Zero 0,33
+1769;2022-10-07 16:44:00;Lucas;Olden Eple
+1770;2022-10-07 14:18:00;Benjamin;Red Bull
+1771;2022-10-07 14:09:00;Emma;Red Bull
+1772;2022-10-07 12:38:00;Filip;Eplemost
+1773;2022-10-07 12:15:00;Oscar;Olden Eple
+1774;2022-10-07 12:15:00;Mathias;Coca Cola Zero 0,33
+1775;2022-10-07 12:10:00;Malin;Red Bull
+1776;2022-10-07 11:13:00;Emma;Eplemost
+1777;2022-10-06 18:24:00;Benjamin;Eplemost
+1778;2022-10-06 16:17:00;Oliver;Eplemost
+1779;2022-10-06 13:52:00;William;Eplemost
+1780;2022-10-06 13:51:00;Aksel;Eplemost
+1781;2022-10-06 13:51:00;Herman;Eplemost
+1782;2022-10-06 12:05:00;Emma;Red Bull
+1783;2022-10-06 11:05:00;Jonas;Grevens Pårecider 0,5
+1784;2022-10-06 11:05:00;Jonas;Grevens Pårecider 0,5
+1785;2022-10-06 11:05:00;Jonas;Breezer
+1786;2022-10-05 14:41:00;Maria;Red Bull
+1787;2022-10-03 09:53:00;Maria;Red Bull
+1788;2022-10-02 06:17:00;Ella;Hard Seltzer Mango
+1789;2022-10-01 23:45:00;Lucas;Breezer
+1790;2022-10-01 23:44:00;Ida;Breezer
+1791;2022-10-01 23:31:00;Ella;Breezer
+1792;2022-10-01 23:31:00;Ella;Breezer
+1793;2022-10-01 23:31:00;Ella;Breezer
+1794;2022-10-01 23:31:00;Ella;Breezer
+1795;2022-10-01 23:24:00;Ella;Hansa Pils 0,33
+1796;2022-10-01 23:10:00;Lucas;Breezer
+1797;2022-10-01 23:07:00;Ida;Hansa Pils 0,33
+1798;2022-10-01 23:06:00;Ella;Hard Seltzer Mango
+1799;2022-10-01 23:06:00;Ella;Hard Seltzer Mango
+1800;2022-10-01 23:06:00;Ella;Hansa Pils 0,33
+1801;2022-10-01 22:34:00;Ella;Hansa Pils 0,33
+1802;2022-10-01 22:34:00;Ella;Hansa Pils 0,33
+1803;2022-10-01 22:34:00;Ella;Hard Seltzer Mango
+1804;2022-10-01 22:34:00;Ella;Hard Seltzer Mango
+1805;2022-10-01 22:14:00;Ella;Breezer
+1806;2022-10-01 21:46:00;Oscar;Breezer
+1807;2022-10-01 21:17:00;Oscar;Breezer
+1808;2022-10-01 19:38:00;Ella;Hansa Premium 0,33
+1809;2022-10-01 19:04:00;Ida;Hansa Pils 0,33
+1810;2022-10-01 18:52:00;Ella;Hansa Premium 0,33
+1811;2022-10-01 18:38:00;Oscar;Hard Seltzer Mango
+1812;2022-10-01 18:37:00;Ella;Hansa Pils 0,33
+1813;2022-10-01 18:28:00;Ida;Hansa Pils 0,33
+1814;2022-10-01 17:17:00;Ida;Red Bull
+1815;2022-10-01 14:08:00;Maria;Red Bull
+1816;2022-10-01 00:33:00;Jakob;Olden Eple
+1817;2022-09-30 23:41:00;Emma;Hansa Premium 0,33
+1818;2022-09-30 23:41:00;Emma;Hansa Premium 0,33
+1819;2022-09-30 23:39:00;Filip;Coca Cola Zero 0,33
+1820;2022-09-30 23:00:00;Maria;Breezer
+1821;2022-09-30 23:00:00;Maria;Breezer
+1822;2022-09-30 22:59:00;Sander;Breezer
+1823;2022-09-30 21:24:00;Sander;Hansa Pils 0,33
+1824;2022-09-30 21:15:00;Ella;Hansa Premium 0,33
+1825;2022-09-30 21:11:00;Lucas;Breezer
+1826;2022-09-30 21:10:00;Filip;Hansa Pils 0,33
+1827;2022-09-30 21:05:00;Maria;Breezer
+1828;2022-09-30 21:05:00;Maria;Breezer
+1829;2022-09-30 20:01:00;Emma;Hansa Premium 0,33
+1830;2022-09-30 19:49:00;Lucas;Hard Seltzer Grapefruit
+1831;2022-09-30 19:49:00;Emma;Hansa Premium 0,33
+1832;2022-09-30 19:48:00;Filip;Hansa Pils 0,33
+1833;2022-09-30 18:30:00;Benjamin;Hansa Premium 0,33
+1834;2022-09-30 18:30:00;Emma;Breezer
+1835;2022-09-30 16:32:00;Malin;Olden Eple
+1836;2022-09-30 16:30:00;Sander;Breezer
+1837;2022-09-30 14:59:00;Benjamin;Brus 0,3
+1838;2022-09-30 14:58:00;Emma;Brus 0,3
+1839;2022-09-30 12:42:00;Oliver;Brus 0,3
+1840;2022-09-30 11:25:00;Maria;Red Bull
+1841;2022-09-29 18:06:00;Emma;Red Bull
+1842;2022-09-29 16:33:00;Emma;Brus 0,3
+1843;2022-09-29 16:21:00;Maja;Brus 0,3
+1844;2022-09-29 15:49:00;Ella;Olden Eple
+1845;2022-09-29 13:46:00;Leah;Red Bull
+1846;2022-09-29 12:45:00;Malin;Red Bull
+1847;2022-09-29 10:01:00;Sebastian;Olden Eple
+1848;2022-09-28 16:17:00;Ella;Olden Eple
+1849;2022-09-28 16:17:00;Emma;Olden Eple
+1850;2022-09-28 16:17:00;Emma;Red Bull
+1851;2022-09-28 15:05:00;Sebastian;Olden Eple
+1852;2022-09-28 14:05:00;Frida;Olden Eple
+1853;2022-09-28 14:00:00;Leah;Red Bull
+1854;2022-09-28 03:45:00;Lucas;Breezer
+1855;2022-09-28 03:45:00;Lucas;Breezer
+1856;2022-09-27 21:42:00;Lucas;Breezer
+1857;2022-09-27 21:34:00;Sebastian;Hansa Pils 0,33
+1858;2022-09-27 20:00:00;Mathias;Breezer
+1859;2022-09-27 19:48:00;Lucas;Hard Seltzer Grapefruit
+1860;2022-09-27 19:41:00;Ida;Hansa Pils 0,33
+1861;2022-09-27 19:41:00;Ida;Hansa Pils 0,33
+1862;2022-09-27 19:34:00;Benjamin;Hansa Pils 0,33
+1863;2022-09-27 19:27:00;Oscar;Hard Seltzer Mango
+1864;2022-09-27 19:24:00;William;Hard Seltzer Mango
+1865;2022-09-27 19:24:00;Olivia;Breezer
+1866;2022-09-27 19:24:00;Olivia;Breezer
+1867;2022-09-27 19:23:00;William;Hard Seltzer Mango
+1868;2022-09-27 19:22:00;Mathias;Hard Seltzer Grapefruit
+1869;2022-09-27 19:22:00;Mathias;Breezer
+1870;2022-09-27 19:21:00;Lukas;Hard Seltzer Mango
+1871;2022-09-27 19:20:00;Julie;Hansa Pils 0,33
+1872;2022-09-27 19:20:00;Julie;Breezer
+1873;2022-09-27 19:20:00;Julie;Hansa Pils 0,33
+1874;2022-09-27 19:19:00;Emil;Grevens Pårecider 0,5
+1875;2022-09-27 19:19:00;Maja;Hard Seltzer Mango
+1876;2022-09-27 19:18:00;Peder;Hansa Pils 0,33
+1877;2022-09-27 19:16:00;Ella;Hard Seltzer Mango
+1878;2022-09-27 19:09:00;Lucas;Hard Seltzer Grapefruit
+1879;2022-09-27 18:59:00;Olivia;Hansa Pils 0,33
+1880;2022-09-27 18:59:00;Jakob;Grevens Pårecider 0,5
+1881;2022-09-27 18:58:00;Ingrid;Breezer
+1882;2022-09-27 18:52:00;Peder;Hard Seltzer Grapefruit
+1883;2022-09-27 18:50:00;Mathias;Grevens Pårecider 0,5
+1884;2022-09-27 18:46:00;Sander;Breezer
+1885;2022-09-27 18:42:00;Ida;Hansa Pils 0,33
+1886;2022-09-27 18:42:00;Maja;Hansa Pils 0,33
+1887;2022-09-27 18:41:00;Filip;Hansa Pils 0,33
+1888;2022-09-27 18:40:00;Aksel;Hansa Pils 0,33
+1889;2022-09-27 18:27:00;Peder;Hansa Pils 0,33
+1890;2022-09-27 18:27:00;Benjamin;Hansa Pils 0,33
+1891;2022-09-27 18:26:00;William;Hansa Pils 0,33
+1892;2022-09-27 18:26:00;Emma;Hansa Premium 0,33
+1893;2022-09-27 18:26:00;Emma;Hansa Premium 0,33
+1894;2022-09-27 18:26:00;Ella;Hansa Pils 0,33
+1895;2022-09-27 18:25:00;Emil;Grevens Pårecider 0,5
+1896;2022-09-27 18:23:00;Lukas;Hansa Pils 0,33
+1897;2022-09-27 18:16:00;Lucas;Breezer
+1898;2022-09-27 18:13:00;Anna;Hansa Pils 0,33
+1899;2022-09-27 18:11:00;Peder;Hansa Pils 0,33
+1900;2022-09-27 18:11:00;Emil;Hansa Pils 0,33
+1901;2022-09-27 18:11:00;Olivia;Hansa Pils 0,33
+1902;2022-09-27 18:10:00;Julie;Hansa Premium 0,33
+1903;2022-09-27 18:10:00;Filip;Hansa Pils 0,33
+1904;2022-09-27 18:10:00;Frida;Breezer
+1905;2022-09-27 18:10:00;Ida;Hansa Pils 0,33
+1906;2022-09-27 18:09:00;Aksel;Hansa Pils 0,33
+1907;2022-09-27 18:09:00;Olivia;Hansa Pils 0,33
+1908;2022-09-27 18:08:00;Maja;Hansa Pils 0,33
+1909;2022-09-27 18:08:00;Maja;Hansa Pils 0,33
+1910;2022-09-27 18:08:00;Ida;Hansa Pils 0,33
+1911;2022-09-27 18:08:00;Andreas;Olden Eple
+1912;2022-09-27 18:08:00;Andreas;Hansa Pils 0,33
+1913;2022-09-27 18:04:00;Ingrid;Hansa Pils 0,33
+1914;2022-09-27 18:00:00;Lukas;Hansa Pils 0,33
+1915;2022-09-27 17:57:00;Ella;Hansa Pils 0,33
+1916;2022-09-27 17:49:00;William;Hansa Premium 0,33
+1917;2022-09-27 17:43:00;Lukas;Hansa Pils 0,33
+1918;2022-09-27 17:43:00;Lukas;Coca Cola Zero 0,33
+1919;2022-09-27 17:40:00;Maja;Hansa Pils 0,33
+1920;2022-09-27 17:34:00;Olivia;Hansa Pils 0,33
+1921;2022-09-27 17:31:00;Ella;Red Bull
+1922;2022-09-27 17:30:00;Lucas;Breezer
+1923;2022-09-27 17:27:00;Benjamin;Hansa Pils 0,33
+1924;2022-09-27 17:18:00;Julie;Hansa Pils 0,33
+1925;2022-09-27 17:18:00;Julie;Hansa Pils 0,33
+1926;2022-09-27 17:16:00;Anna;Hansa Pils 0,33
+1927;2022-09-27 17:11:00;Maja;Hansa Pils 0,33
+1928;2022-09-27 15:57:00;Maja;Hansa Pils 0,33
+1929;2022-09-27 14:36:00;Maria;Red Bull
+1930;2022-09-27 12:13:00;Emma;Olden Eple
+1931;2022-09-26 22:13:00;Ingrid;Breezer
+1932;2022-09-26 22:13:00;Ingrid;Breezer
+1933;2022-09-26 22:09:00;Jakob;Breezer
+1934;2022-09-26 22:09:00;Jakob;Breezer
+1935;2022-09-26 21:00:00;Mathias;Hard Seltzer Grapefruit
+1936;2022-09-26 21:00:00;Mathias;Hard Seltzer Grapefruit
+1937;2022-09-26 21:00:00;Mathias;Hard Seltzer Grapefruit
+1938;2022-09-26 21:00:00;Mathias;Breezer
+1939;2022-09-26 20:08:00;Emma;Red Bull
+1940;2022-09-26 18:21:00;Jakob;Grevens Pårecider 0,5
+1941;2022-09-26 13:45:00;Peder;Coca Cola Zero 0,33
+1942;2022-09-26 13:39:00;Ingrid;Red Bull
+1943;2022-09-26 13:30:00;Emma;Hansa Pils 0,33
+1944;2022-09-26 13:30:00;Emma;Hansa Pils 0,33
+1945;2022-09-26 10:10:00;Maja;Brus 0,3
+1946;2022-09-25 15:39:00;Benjamin;Hansa Pils 0,33
+1947;2022-09-25 15:39:00;Emma;Hansa Pils 0,33
+1948;2022-09-25 00:38:00;Jakob;Grevens Pårecider 0,5
+1949;2022-09-25 00:37:00;Peder;Hard Seltzer Grapefruit
+1950;2022-09-25 00:37:00;Sebastian;Hansa Pils 0,33
+1951;2022-09-25 00:32:00;Victoria;Breezer
+1952;2022-09-25 00:32:00;Victoria;Breezer
+1953;2022-09-25 00:32:00;Victoria;Breezer
+1954;2022-09-25 00:32:00;Victoria;Breezer
+1955;2022-09-25 00:32:00;Victoria;Breezer
+1956;2022-09-25 00:32:00;Victoria;Breezer
+1957;2022-09-25 00:31:00;Peder;Breezer
+1958;2022-09-25 00:30:00;Jakob;Breezer
+1959;2022-09-25 00:08:00;Jakob;Hard Seltzer Grapefruit
+1960;2022-09-25 00:02:00;Peder;Breezer
+1961;2022-09-25 00:01:00;Jakob;Breezer
+1962;2022-09-25 00:00:00;Ella;Hansa Pils 0,33
+1963;2022-09-25 00:00:00;Ella;Hansa Pils 0,33
+1964;2022-09-25 00:00:00;Ella;Hansa Pils 0,33
+1965;2022-09-25 00:00:00;Ella;Hansa Pils 0,33
+1966;2022-09-25 00:00:00;Ella;Hansa Pils 0,33
+1967;2022-09-25 00:00:00;Ella;Hansa Pils 0,33
+1968;2022-09-24 23:47:00;Ella;Breezer
+1969;2022-09-24 23:33:00;Leah;Hansa Pils 0,33
+1970;2022-09-24 23:13:00;Leah;Hard Seltzer Grapefruit
+1971;2022-09-24 23:13:00;Leah;Grevens Pårecider 0,5
+1972;2022-09-24 23:02:00;William;Hansa Pils 0,33
+1973;2022-09-24 23:02:00;William;Hansa Pils 0,33
+1974;2022-09-24 22:59:00;Ella;Breezer
+1975;2022-09-24 22:59:00;Ella;Breezer
+1976;2022-09-24 22:55:00;William;Breezer
+1977;2022-09-24 22:49:00;Amalie;Breezer
+1978;2022-09-24 22:44:00;Amalie;Hansa Pils 0,33
+1979;2022-09-24 22:44:00;Amalie;Hansa Pils 0,33
+1980;2022-09-24 22:33:00;Leah;Hard Seltzer Mango
+1981;2022-09-24 22:04:00;Leah;Hansa Pils 0,33
+1982;2022-09-24 21:07:00;Sebastian;Hansa Pils 0,33
+1983;2022-09-24 21:07:00;Peder;Hansa Pils 0,33
+1984;2022-09-24 21:06:00;Ella;Hansa Pils 0,33
+1985;2022-09-24 19:36:00;Jakob;Hard Seltzer Mango
+1986;2022-09-24 19:35:00;Peder;Hard Seltzer Mango
+1987;2022-09-24 19:11:00;Jakob;Hard Seltzer Grapefruit
+1988;2022-09-24 18:56:00;Peder;Hansa Pils 0,33
+1989;2022-09-24 18:56:00;Ida;Hard Seltzer Mango
+1990;2022-09-24 18:45:00;Ella;Hansa Pils 0,33
+1991;2022-09-24 18:20:00;Jakob;Hard Seltzer Grapefruit
+1992;2022-09-24 18:19:00;Peder;Hard Seltzer Grapefruit
+1993;2022-09-24 18:08:00;Jakob;Hard Seltzer Grapefruit
+1994;2022-09-24 18:08:00;Jakob;Breezer
+1995;2022-09-24 18:08:00;Jakob;Breezer
+1996;2022-09-24 17:46:00;Ida;Brus 0,3
+1997;2022-09-24 17:31:00;William;Breezer
+1998;2022-09-24 17:31:00;William;Hansa Premium 0,33
+1999;2022-09-24 17:31:00;William;Hansa Premium 0,33
+2000;2022-09-24 17:31:00;William;Hansa Premium 0,33
+2001;2022-09-24 17:31:00;William;Hansa Premium 0,33
+2002;2022-09-24 17:07:00;Ida;Hansa Pils 0,33
+2003;2022-09-24 17:00:00;Ella;Brus 0,3
+2004;2022-09-24 16:55:00;William;Hansa Pils 0,33
+2005;2022-09-24 16:52:00;Ida;Red Bull
+2006;2022-09-24 16:47:00;Martin;Hansa Pils 0,33
+2007;2022-09-24 16:09:00;Sebastian;Hansa Pils 0,33
+2008;2022-09-24 16:09:00;William;Hansa Pils 0,33
+2009;2022-09-24 16:09:00;William;Olden Eple
+2010;2022-09-24 16:03:00;Ella;Red Bull
+2011;2022-09-23 14:42:00;Maria;Red Bull
+2012;2022-09-23 13:13:00;William;Olden Eple
+2013;2022-09-23 13:13:00;William;Olden Eple
+2014;2022-09-23 12:46:00;Sebastian;Red Bull
+2015;2022-09-23 12:46:00;Sebastian;Olden Eple
+2016;2022-09-23 12:26:00;William;Olden Eple
+2017;2022-09-23 11:50:00;Emma;Olden Eple
+2018;2022-09-23 09:30:00;Emma;Red Bull
+2019;2022-09-23 08:08:00;Emma;Red Bull
+2020;2022-09-22 19:06:00;Maria;Hansa Pils 0,33
+2021;2022-09-22 18:46:00;Maria;Hard Seltzer Grapefruit
+2022;2022-09-22 18:27:00;Maria;Breezer
+2023;2022-09-22 18:21:00;Lucas;Breezer
+2024;2022-09-22 18:13:00;Maria;Hansa Pils 0,33
+2025;2022-09-22 11:35:00;Sebastian;Olden Eple
+2026;2022-09-21 19:58:00;Emma;Red Bull
+2027;2022-09-21 19:14:00;Leah;Hansa Pils 0,33
+2028;2022-09-21 19:14:00;Leah;Hansa Pils 0,33
+2029;2022-09-21 19:14:00;Leah;Hansa Pils 0,33
+2030;2022-09-21 19:14:00;Leah;Hansa Pils 0,33
+2031;2022-09-21 19:14:00;Leah;Hansa Pils 0,33
+2032;2022-09-21 19:12:00;Andreas;Olden Eple
+2033;2022-09-21 16:03:00;Maria;Red Bull
+2034;2022-09-21 15:32:00;Ella;Coca Cola Zero 0,33
+2035;2022-09-21 14:26:00;Ella;Red Bull
+2036;2022-09-21 14:15:00;Peder;Coca Cola Zero 0,33
+2037;2022-09-21 12:58:00;Emma;Red Bull
+2038;2022-09-21 12:29:00;Leah;Red Bull
+2039;2022-09-21 11:50:00;Ella;Red Bull
+2040;2022-09-21 10:33:00;Emma;Red Bull
+2041;2022-09-21 08:11:00;Ella;Red Bull
+2042;2022-09-20 20:31:00;Jakob;Red Bull
+2043;2022-09-20 15:47:00;Emma;Hansa Premium 0,33
+2044;2022-09-20 15:01:00;Benjamin;Red Bull
+2045;2022-09-20 14:49:00;Oliver;Brus 0,3
+2046;2022-09-20 14:39:00;Oliver;Breezer
+2047;2022-09-20 14:39:00;Oliver;Breezer
+2048;2022-09-20 12:26:00;Jakob;Red Bull
+2049;2022-09-20 11:38:00;Emma;Red Bull
+2050;2022-09-19 17:55:00;Oliver;Red Bull
+2051;2022-09-19 17:42:00;Ingrid;Breezer
+2052;2022-09-19 17:42:00;Ingrid;Breezer
+2053;2022-09-19 17:33:00;Ella;Coca Cola Zero 0,33
+2054;2022-09-19 16:04:00;Sebastian;Coca Cola Zero 0,33
+2055;2022-09-19 15:57:00;Oliver;Brus 0,3
+2056;2022-09-19 15:56:00;Emma;Red Bull
+2057;2022-09-19 15:56:00;Emma;Hansa Premium 0,33
+2058;2022-09-19 12:07:00;Maria;Red Bull
+2059;2022-09-19 11:43:00;Ella;Red Bull
+2060;2022-09-19 11:42:00;Sebastian;Red Bull
+2061;2022-09-18 18:22:00;Victoria;Coca Cola Zero 0,33
+2062;2022-09-18 17:59:00;Emma;Coca Cola Zero 0,33
+2063;2022-09-18 17:59:00;Benjamin;Coca Cola Zero 0,33
+2064;2022-09-17 16:31:00;Leah;Breezer
+2065;2022-09-17 16:31:00;Leah;Hansa Pils 0,33
+2066;2022-09-17 16:31:00;Leah;Hansa Pils 0,33
+2067;2022-09-17 16:31:00;Leah;Hansa Pils 0,33
+2068;2022-09-17 16:31:00;Leah;Hansa Pils 0,33
+2069;2022-09-17 16:31:00;Leah;Hansa Pils 0,33
+2070;2022-09-17 16:31:00;Leah;Hansa Pils 0,33
+2071;2022-09-17 15:02:00;Leah;Brus 0,3
+2072;2022-09-17 11:48:00;Maja;Brus 0,3
+2073;2022-09-16 22:00:00;Victoria;Red Bull
+2074;2022-09-16 21:29:00;Victoria;Hansa Premium 0,33
+2075;2022-09-16 19:32:00;Markus;Red Bull
+2076;2022-09-16 19:30:00;Ingrid;Red Bull
+2077;2022-09-16 19:30:00;Victoria;Hansa Premium 0,33
+2078;2022-09-16 19:27:00;Herman;Red Bull
+2079;2022-09-16 19:11:00;Victoria;Brus 0,3
+2080;2022-09-16 14:11:00;Ella;Red Bull
+2081;2022-09-15 23:33:00;Jakob;Breezer
+2082;2022-09-15 23:33:00;Jakob;Breezer
+2083;2022-09-15 23:33:00;Jakob;Breezer
+2084;2022-09-15 23:23:00;Jakob;Hansa Pils 0,33
+2085;2022-09-15 23:23:00;Jakob;Breezer
+2086;2022-09-15 23:14:00;Jakob;Breezer
+2087;2022-09-15 23:14:00;Jakob;Breezer
+2088;2022-09-15 22:26:00;Emma;Breezer
+2089;2022-09-15 22:20:00;Leah;Hansa Pils 0,33
+2090;2022-09-15 21:40:00;William;Hansa Pils 0,33
+2091;2022-09-15 21:32:00;Filip;Hansa Pils 0,33
+2092;2022-09-15 21:32:00;Filip;Hansa Pils 0,33
+2093;2022-09-15 21:32:00;Filip;Hansa Pils 0,33
+2094;2022-09-15 21:17:00;Lucas;Breezer
+2095;2022-09-15 21:17:00;Benjamin;Hansa Pils 0,33
+2096;2022-09-15 21:17:00;Leah;Hansa Pils 0,33
+2097;2022-09-15 21:17:00;Andreas;Hansa Pils 0,33
+2098;2022-09-15 20:11:00;Leah;Hansa Pils 0,33
+2099;2022-09-15 20:06:00;William;Brus 0,3
+2100;2022-09-15 19:02:00;Benjamin;Hansa Premium 0,33
+2101;2022-09-15 19:02:00;Leah;Hansa Pils 0,33
+2102;2022-09-15 18:46:00;Mathias;Coca Cola Zero 0,33
+2103;2022-09-15 18:43:00;William;Hansa Pils 0,33
+2104;2022-09-15 18:20:00;Andreas;Hansa Premium 0,33
+2105;2022-09-15 18:05:00;Benjamin;Hansa Premium 0,33
+2106;2022-09-15 18:05:00;Benjamin;Hansa Premium 0,33
+2107;2022-09-15 16:25:00;Ella;Red Bull
+2108;2022-09-15 16:10:00;Peder;Brus 0,3
+2109;2022-09-15 16:07:00;Maja;Brus 0,3
+2110;2022-09-15 15:25:00;William;Brus 0,3
+2111;2022-09-15 13:42:00;Ella;Red Bull
+2112;2022-09-15 13:11:00;Maja;Brus 0,3
+2113;2022-09-15 12:35:00;Ingrid;Red Bull
+2114;2022-09-14 20:38:00;William;Olden Eple
+2115;2022-09-14 18:07:00;Emma;Red Bull
+2116;2022-09-14 17:57:00;Markus;Coca Cola Zero 0,33
+2117;2022-09-14 17:43:00;Oscar;Coca Cola Zero 0,33
+2118;2022-09-14 15:59:00;Maja;Brus 0,3
+2119;2022-09-14 14:17:00;Frida;Coca Cola Zero 0,33
+2120;2022-09-14 13:57:00;Leah;Red Bull
+2121;2022-09-14 11:44:00;Herman;Red Bull
+2122;2022-09-13 17:50:00;Emil;Grevens Pårecider 0,5
+2123;2022-09-13 17:47:00;Frida;Grevens Pårecider 0,5
+2124;2022-09-13 16:09:00;Sander;Breezer
+2125;2022-09-13 11:50:00;Leah;Red Bull
+2126;2022-09-12 19:23:00;Emma;Hansa Premium 0,33
+2127;2022-09-12 19:23:00;Benjamin;Hansa Premium 0,33
+2128;2022-09-12 18:34:00;William;Coca Cola Zero 0,33
+2129;2022-09-12 18:29:00;Oscar;Brus 0,3
+2130;2022-09-12 17:43:00;Peder;Brus 0,3
+2131;2022-09-10 22:13:00;Peder;Breezer
+2132;2022-09-10 22:13:00;Peder;Breezer
+2133;2022-09-10 18:27:00;Filip;Hard Seltzer Mango
+2134;2022-09-10 18:27:00;Filip;Hard Seltzer Mango
+2135;2022-09-10 18:27:00;Filip;Hansa Pils 0,33
+2136;2022-09-10 18:27:00;Filip;Hansa Pils 0,33
+2137;2022-09-09 17:52:00;Maja;Grevens Pårecider 0,5
+2138;2022-09-09 16:52:00;Maja;Hansa Premium 0,33
+2139;2022-09-09 16:52:00;Maja;Hansa Premium 0,33
+2140;2022-09-09 16:52:00;Maja;Hansa Premium 0,33
+2141;2022-09-09 15:04:00;Maja;Hansa Premium 0,33
+2142;2022-09-09 14:07:00;Maja;Hansa Premium 0,33
+2143;2022-09-08 23:53:00;Malin;Hard Seltzer Grapefruit
+2144;2022-09-08 18:32:00;Malin;Hansa Pils 0,33
+2145;2022-09-08 18:22:00;Jakob;Grevens Pårecider 0,5
+2146;2022-09-08 18:19:00;Oliver;Hansa Pils 0,33
+2147;2022-09-08 12:36:00;Oliver;Brus 0,3
+2148;2022-09-07 20:49:00;Sebastian;Coca Cola Zero 0,33
+2149;2022-09-07 20:05:00;Emma;Red Bull
+2150;2022-09-07 19:32:00;Jakob;Red Bull
+2151;2022-09-07 19:26:00;Benjamin;Hansa Pils 0,33
+2152;2022-09-07 18:43:00;Sebastian;Hansa Pils 0,33
+2153;2022-09-07 18:41:00;Maja;Brus 0,3
+2154;2022-09-07 17:44:00;Filip;Hansa Pils 0,33
+2155;2022-09-07 17:43:00;Emma;Hansa Premium 0,33
+2156;2022-09-07 17:43:00;Sebastian;Hansa Pils 0,33
+2157;2022-09-07 17:43:00;Sebastian;Hansa Pils 0,33
+2158;2022-09-07 13:45:00;Emma;Coca Cola Zero 0,33
+2159;2022-09-07 13:45:00;Emma;Hansa Pils 0,33
+2160;2022-09-07 13:45:00;Emma;Hansa Pils 0,33
+2161;2022-09-07 12:36:00;Oscar;Coca Cola Zero 0,33
+2162;2022-09-07 12:27:00;Herman;Brus 0,3
+2163;2022-09-07 11:59:00;Ingrid;Red Bull
+2164;2022-09-07 11:53:00;Herman;Red Bull
+2165;2022-09-07 11:14:00;Sebastian;Coca Cola Zero 0,33
+2166;2022-09-06 14:43:00;William;Red Bull
+2167;2022-09-06 13:08:00;Leah;Brus 0,3
+2168;2022-09-06 12:09:00;Frida;Brus 0,3
+2169;2022-09-05 18:55:00;Benjamin;Hansa Pils 0,33
+2170;2022-09-05 18:26:00;Thea;Red Bull
+2171;2022-09-05 12:02:00;Malin;Coca Cola Zero 0,33
+2172;2022-09-05 12:02:00;Malin;Brus 0,3
+2173;2022-09-05 09:34:00;Sebastian;Coca Cola Zero 0,33
+2174;2022-09-03 23:23:00;Amalie;Hard Seltzer Grapefruit
+2175;2022-09-03 23:23:00;Amalie;Hard Seltzer Grapefruit
+2176;2022-09-03 23:23:00;Amalie;Hansa Pils 0,33
+2177;2022-09-03 22:25:00;Maria;Hard Seltzer Grapefruit
+2178;2022-09-03 00:32:00;Victoria;Brus 0,3
+2179;2022-09-03 00:32:00;Victoria;Brus 0,3
+2180;2022-09-02 22:05:00;Ingrid;Hansa Pils 0,33
+2181;2022-09-02 22:05:00;Ingrid;Hansa Pils 0,33
+2182;2022-09-02 22:05:00;Ingrid;Breezer
+2183;2022-09-02 22:05:00;Ingrid;Breezer
+2184;2022-09-02 22:05:00;Filip;Hansa Pils 0,33
+2185;2022-09-02 22:05:00;Filip;Breezer
+2186;2022-09-02 22:05:00;Filip;Breezer
+2187;2022-09-02 12:19:00;Maria;Red Bull
+2188;2022-09-01 14:23:00;Emma;Hansa Premium 0,33
+2189;2022-09-01 11:04:00;Maja;Red Bull
+2190;2022-08-31 23:42:00;Ella;Breezer
+2191;2022-08-31 23:42:00;Amalie;Hansa Pils 0,33
+2192;2022-08-31 19:35:00;Sander;Breezer
+2193;2022-08-31 19:00:00;Maria;Breezer
+2194;2022-08-31 19:00:00;Maria;Breezer
+2195;2022-08-31 19:00:00;Benjamin;Breezer
+2196;2022-08-31 19:00:00;Benjamin;Breezer
+2197;2022-08-31 19:00:00;Victoria;Breezer
+2198;2022-08-31 19:00:00;Victoria;Breezer
+2199;2022-08-31 19:00:00;Filip;Breezer
+2200;2022-08-31 19:00:00;Filip;Breezer
+2201;2022-08-31 18:59:00;Sebastian;Breezer
+2202;2022-08-31 18:59:00;Sebastian;Breezer
+2203;2022-08-31 18:56:00;Frida;Grevens Pårecider 0,5
+2204;2022-08-31 18:33:00;Sebastian;Hansa Pils 0,33
+2205;2022-08-31 18:32:00;Filip;Hansa Pils 0,33
+2206;2022-08-31 18:30:00;Maja;Hansa Pils 0,33
+2207;2022-08-31 18:27:00;Lukas;Hansa Pils 0,33
+2208;2022-08-31 18:21:00;Maria;Hard Seltzer Grapefruit
+2209;2022-08-31 18:10:00;Frida;Grevens Pårecider 0,5
+2210;2022-08-31 18:08:00;Hannah;Hard Seltzer Grapefruit
+2211;2022-08-31 18:07:00;Hannah;Hansa Premium 0,33
+2212;2022-08-31 18:03:00;Benjamin;Hansa Pils 0,33
+2213;2022-08-31 18:02:00;Sebastian;Hansa Pils 0,33
+2214;2022-08-31 17:59:00;Filip;Hard Seltzer Mango
+2215;2022-08-31 17:59:00;Maja;Hard Seltzer Mango
+2216;2022-08-31 17:52:00;Maria;Hansa Pils 0,33
+2217;2022-08-31 17:45:00;Sebastian;Hansa Premium 0,33
+2218;2022-08-31 17:44:00;Maja;Hansa Pils 0,33
+2219;2022-08-31 17:33:00;Benjamin;Hansa Pils 0,33
+2220;2022-08-29 20:26:00;Lucas;Breezer
+2221;2022-08-29 20:25:00;Anna;Hansa Fatål 0,33
+2222;2022-08-29 20:25:00;Anna;Hansa Fatål 0,33
+2223;2022-08-29 20:02:00;Anna;Hansa Fatål 0,33
+2224;2022-08-29 20:00:00;Anna;Hansa Fatål 0,33
+2225;2022-08-29 19:58:00;Filip;Hard Seltzer Mango
+2226;2022-08-29 19:25:00;Benjamin;Hansa Fatål 0,33
+2227;2022-08-29 19:24:00;Lucas;Hard Seltzer Mango
+2228;2022-08-29 17:32:00;Filip;Hard Seltzer Mango
+2229;2022-08-29 17:20:00;Sebastian;Hansa Fatål 0,33
+2230;2022-08-29 16:57:00;Ella;Hansa Fatål 0,33
+2231;2022-08-26 19:14:00;Emma;Breezer
+2232;2022-08-25 23:55:00;Anna;Breezer
+2233;2022-08-25 23:31:00;Anna;Hansa Pils 0,33
+2234;2022-08-25 23:31:00;Anna;Red Bull
+2235;2022-08-25 23:07:00;Anna;Breezer
+2236;2022-08-25 23:06:00;Oscar;Breezer
+2237;2022-08-25 23:05:00;Ida;Hansa Pils 0,33
+2238;2022-08-25 22:42:00;Anna;Hansa Pils 0,33
+2239;2022-08-25 22:24:00;Filip;Hard Seltzer Mango
+2240;2022-08-25 22:13:00;Ida;Hansa Pils 0,33
+2241;2022-08-25 22:09:00;Emil;Hansa Pils 0,33
+2242;2022-08-25 22:09:00;Kristian;Hansa Pils 0,33
+2243;2022-08-25 22:08:00;Anna;Hard Seltzer Mango
+2244;2022-08-25 21:47:00;Anna;Breezer
+2245;2022-08-25 21:41:00;Emma;Hansa Fatål 0,33
+2246;2022-08-25 21:40:00;Benjamin;Hansa Fatål 0,33
+2247;2022-08-25 21:40:00;Filip;Hansa Pils 0,33
+2248;2022-08-25 21:40:00;Malin;Hansa Pils 0,33
+2249;2022-08-25 21:40:00;Oscar;Hard Seltzer Mango
+2250;2022-08-25 21:33:00;Ida;Hansa Pils 0,33
+2251;2022-08-25 21:32:00;Kristian;Hansa Pils 0,33
+2252;2022-08-25 21:00:00;Emma;Hansa Pils 0,33
+2253;2022-08-25 21:00:00;Emma;Red Bull
+2254;2022-08-25 21:00:00;Emil;Grevens Pårecider 0,5
+2255;2022-08-25 20:59:00;Oscar;Hard Seltzer Mango
+2256;2022-08-25 20:58:00;Ida;Hansa Pils 0,33
+2257;2022-08-25 20:53:00;Anna;Hansa Pils 0,33
+2258;2022-08-25 20:48:00;Malin;Hansa Pils 0,33
+2259;2022-08-25 20:44:00;Frida;Grevens Pårecider 0,5
+2260;2022-08-25 20:36:00;Anna;Hansa Pils 0,33
+2261;2022-08-25 20:16:00;Ida;Hansa Pils 0,33
+2262;2022-08-25 20:16:00;Ida;Hansa Pils 0,33
+2263;2022-08-25 19:47:00;Anna;Hansa Premium 0,33
+2264;2022-08-25 19:31:00;Kristian;Hansa Pils 0,33
+2265;2022-08-25 19:26:00;Oscar;Hard Seltzer Mango
+2266;2022-08-25 19:25:00;Lucas;Hard Seltzer Mango
+2267;2022-08-25 19:11:00;Anna;Hansa Pils 0,33
+2268;2022-08-25 19:08:00;Emil;Hansa Pils 0,33
+2269;2022-08-25 18:45:00;Frida;Hansa Pils 0,33
+2270;2022-08-25 18:39:00;Malin;Hansa Pils 0,33
+2271;2022-08-25 18:35:00;Kristian;Hansa Pils 0,33
+2272;2022-08-25 18:19:00;Benjamin;Hansa Fatål 0,33
+2273;2022-08-25 18:15:00;Peder;Hansa Pils 0,33
+2274;2022-08-25 18:15:00;Malin;Hansa Pils 0,33
+2275;2022-08-25 18:14:00;Frida;Hansa Pils 0,33
+2276;2022-08-25 18:14:00;Frida;Breezer
+2277;2022-08-25 18:14:00;Filip;Hansa Pils 0,33
+2278;2022-08-25 18:14:00;Sebastian;Hansa Pils 0,33
+2279;2022-08-25 18:14:00;Sebastian;Hansa Pils 0,33
+2280;2022-08-25 16:54:00;Benjamin;Hansa Fatål 0,33
+2281;2022-08-25 16:39:00;Emma;Hansa Fatål 0,33
+2282;2022-08-25 16:38:00;Maja;Hansa Pils 0,33
+2283;2022-08-25 16:38:00;Victoria;Hansa Pils 0,33
+2284;2022-08-24 22:05:00;Filip;Hansa Pils 0,33
+2285;2022-08-24 22:05:00;Maja;Hansa Pils 0,33
+2286;2022-08-24 21:57:00;Peder;Hansa Pils 0,33
+2287;2022-08-24 21:56:00;Ella;Hansa Pils 0,33
+2288;2022-08-24 20:41:00;Maria;Breezer
+2289;2022-08-24 20:40:00;Maja;Breezer
+2290;2022-08-24 20:40:00;Ella;Breezer
+2291;2022-08-24 20:34:00;Maja;Breezer
+2292;2022-08-24 20:34:00;Emma;Breezer
+2293;2022-08-24 20:31:00;Filip;Breezer
+2294;2022-08-24 20:31:00;Peder;Breezer
+2295;2022-08-24 20:31:00;Peder;Hansa Pils 0,33
+2296;2022-08-24 20:29:00;Ella;Hansa Pils 0,33
+2297;2022-08-24 20:29:00;Ella;Breezer
+2298;2022-08-24 19:30:00;Maja;Hansa Pils 0,33
+2299;2022-08-24 19:28:00;Filip;Hansa Pils 0,33
+2300;2022-08-24 19:27:00;Emma;Hansa Fatål 0,33
+2301;2022-08-24 19:27:00;Peder;Hard Seltzer Mango
+2302;2022-08-24 18:39:00;Emma;Breezer
+2303;2022-08-24 18:16:00;Emma;Hansa Pils 0,33
+2304;2022-08-24 18:16:00;Emma;Hansa Pils 0,33
+2305;2022-08-24 18:16:00;Emma;Hansa Fatål 0,33
+2306;2022-08-24 18:16:00;Emma;Hansa Fatål 0,33
+2307;2022-08-24 17:46:00;Maria;Breezer
+2308;2022-08-24 17:46:00;Maria;Breezer
+2309;2022-08-24 17:24:00;Peder;Hansa Pils 0,33
+2310;2022-08-24 17:24:00;Peder;Hansa Pils 0,33
+2311;2022-08-24 17:24:00;Peder;Hansa Pils 0,33
+2312;2022-08-24 17:24:00;Peder;Hansa Pils 0,33
+2313;2022-08-24 17:24:00;Peder;Hansa Pils 0,33
+2314;2022-08-24 17:24:00;Peder;Hansa Pils 0,33
+2315;2022-08-24 17:24:00;Peder;Hansa Pils 0,33
+2316;2022-08-24 17:24:00;Peder;Hansa Pils 0,33
+2317;2022-08-24 17:24:00;Peder;Hansa Pils 0,33
+2318;2022-08-24 17:01:00;Peder;Hansa Pils 0,33
+2319;2022-08-24 16:36:00;Ella;Hansa Pils 0,33
+2320;2022-08-24 16:35:00;Sebastian;Hansa Pils 0,33
+2321;2022-08-24 16:13:00;Maja;Hansa Pils 0,33
+2322;2022-08-24 16:06:00;Malin;Hansa Pils 0,33
+2323;2022-08-24 16:06:00;Sebastian;Hansa Pils 0,33
+2324;2022-08-24 16:04:00;Filip;Hard Seltzer Mango
+2325;2022-08-24 16:00:00;Maja;Hard Seltzer Mango
+2326;2022-08-23 18:07:00;Emma;Breezer
+2327;2022-08-23 18:03:00;Emma;Hard Seltzer Mango
+2328;2022-08-23 18:03:00;Emma;Hansa Fatål 0,33
+2329;2022-08-23 15:58:00;Ella;Hard Seltzer Mango
+2330;2022-08-23 15:57:00;Filip;Hard Seltzer Mango
+2331;2022-08-23 14:30:00;Malin;Hard Seltzer Mango
+2332;2022-08-23 14:23:00;Filip;Hard Seltzer Mango
+2333;2022-08-23 14:22:00;Ella;Hard Seltzer Mango
+2334;2022-08-23 12:41:00;Ella;Hansa Pils 0,33
+2335;2022-08-22 14:04:00;Oliver;Brus 0,3
+2336;2022-08-21 18:41:00;Emma;Hansa Fatål 0,33
+2337;2022-08-21 17:18:00;Benjamin;Coca Cola Zero 0,33
+2338;2022-08-21 15:32:00;Oscar;Coca Cola Zero 0,33
+2339;2022-08-21 15:32:00;Sebastian;Coca Cola Zero 0,33
+2340;2022-08-20 22:11:00;Leah;Hansa Pils 0,33
+2341;2022-08-20 21:41:00;Leah;Hansa Pils 0,33
+2342;2022-08-20 21:27:00;Benjamin;Coca Cola Zero 0,33
+2343;2022-08-20 21:27:00;Victoria;Coca Cola Zero 0,33
+2344;2022-08-20 13:26:00;Leah;Hard Seltzer Mango
+2345;2022-08-20 13:26:00;Leah;Hard Seltzer Mango
+2346;2022-08-20 12:40:00;Leah;Breezer
+2347;2022-08-20 12:40:00;Oscar;Hansa Pils 0,33
+2348;2022-08-20 12:40:00;Oscar;Hansa Pils 0,33
+2349;2022-08-20 12:40:00;Oscar;Hansa Pils 0,33
+2350;2022-08-20 12:40:00;Oscar;Brus 0,3
+2351;2022-08-20 12:40:00;Oscar;Brus 0,3
+2352;2022-08-20 12:40:00;Oscar;Brus 0,3
+2353;2022-08-20 12:40:00;Oscar;Breezer
+2354;2022-08-20 12:40:00;Oscar;Breezer
+2355;2022-08-20 12:40:00;Oscar;Breezer
+2356;2022-08-20 12:40:00;Oscar;Breezer
+2357;2022-08-20 12:40:00;Oscar;Breezer
+2358;2022-08-20 12:40:00;Oscar;Breezer
+2359;2022-08-20 12:31:00;Leah;Hansa Pils 0,33
+2360;2022-08-20 12:28:00;Ingrid;Breezer
+2361;2022-08-20 12:28:00;Ingrid;Breezer
+2362;2022-08-20 12:25:00;Leah;Hansa Premium 0,33
+2363;2022-08-20 12:24:00;Ingrid;Coca Cola Zero 0,33
+2364;2022-08-20 12:24:00;Leah;Brus 0,3
+2365;2022-08-19 23:25:00;Leah;Hansa Pils 0,33
+2366;2022-08-19 22:53:00;Leah;Breezer
+2367;2022-08-19 22:53:00;Leah;Hansa Pils 0,33
+2368;2022-08-19 22:45:00;Frida;Grevens Pårecider 0,5
+2369;2022-08-19 22:45:00;Frida;Breezer
+2370;2022-08-19 22:43:00;Oliver;Hansa Pils 0,33
+2371;2022-08-19 22:43:00;Oliver;Hansa Pils 0,33
+2372;2022-08-19 22:37:00;Leah;Breezer
+2373;2022-08-19 22:33:00;Leah;Breezer
+2374;2022-08-19 22:33:00;Leah;Breezer
+2375;2022-08-19 21:01:00;Nora;Hansa Pils 0,33
+2376;2022-08-19 21:01:00;Nora;Hansa Pils 0,33
+2377;2022-08-18 23:15:00;William;Hard Seltzer Mango
+2378;2022-08-18 23:03:00;Benjamin;Olden Eple
+2379;2022-08-18 22:47:00;Benjamin;Hansa Fatål 0,33
+2380;2022-08-18 22:43:00;Maria;Hard Seltzer Mango
+2381;2022-08-18 22:42:00;William;Breezer
+2382;2022-08-18 21:24:00;Oliver;Breezer
+2383;2022-08-18 21:24:00;Oliver;Breezer
+2384;2022-08-18 21:24:00;Oliver;Breezer
+2385;2022-08-18 21:24:00;Oliver;Breezer
+2386;2022-08-18 21:24:00;Oliver;Breezer
+2387;2022-08-18 21:13:00;Leah;Hansa Pils 0,33
+2388;2022-08-18 20:25:00;Oscar;Breezer
+2389;2022-08-18 20:25:00;Leah;Hansa Pils 0,33
+2390;2022-08-18 20:25:00;Leah;Hansa Pils 0,33
+2391;2022-08-18 20:25:00;Leah;Hansa Pils 0,33
+2392;2022-08-17 22:48:00;Sebastian;Coca Cola Zero 0,33
+2393;2022-08-17 22:30:00;Ella;Brus 0,3
+2394;2022-08-17 22:30:00;Ella;Hansa Pils 0,33
+2395;2022-08-17 21:06:00;Oliver;Hansa Pils 0,33
+2396;2022-08-17 21:06:00;Oliver;Hansa Pils 0,33
+2397;2022-08-17 20:53:00;Leah;Breezer
+2398;2022-08-17 20:53:00;Leah;Hansa Pils 0,33
+2399;2022-08-17 20:52:00;Leah;Breezer
+2400;2022-08-17 20:45:00;Leah;Hansa Pils 0,33
+2401;2022-08-17 18:03:00;William;Hansa Pils 0,33
+2402;2022-08-17 18:03:00;Ella;Breezer
+2403;2022-08-17 17:57:00;Sebastian;Hansa Fatål 0,33
+2404;2022-08-17 16:08:00;Ella;Hansa Fatål 0,33
+2405;2022-08-17 10:26:00;Sebastian;Brus 0,3
+2406;2022-08-16 22:10:00;Martin;Brus 0,3
+2407;2022-08-16 19:17:00;Victoria;Brus 0,3
+2408;2022-08-16 19:17:00;Victoria;Brus 0,3
+2409;2022-08-16 19:17:00;Victoria;Brus 0,3
+2410;2022-08-16 17:31:00;Leah;Hard Seltzer Mango
+2411;2022-08-16 17:31:00;Leah;Hard Seltzer Mango
+2412;2022-08-16 17:31:00;Leah;Hansa Pils 0,33
+2413;2022-08-16 17:31:00;Leah;Hansa Pils 0,33
+2414;2022-08-16 17:31:00;Leah;Hansa Pils 0,33
+2415;2022-08-16 17:31:00;Leah;Hansa Pils 0,33
+2416;2022-08-16 17:31:00;Leah;Hansa Pils 0,33
+2417;2022-08-16 17:31:00;Leah;Hansa Pils 0,33
+2418;2022-08-16 17:31:00;Leah;Hansa Pils 0,33
+2419;2022-08-16 17:31:00;Leah;Hansa Pils 0,33
+2420;2022-08-15 23:37:00;Maria;Brus 0,3
+2421;2022-08-15 14:44:00;Filip;Brus 0,3
