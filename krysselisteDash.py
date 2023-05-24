@@ -4,6 +4,7 @@ import pandas as pd                                          # Reading and Organ
 import dash                                                  # Running the Application
 from dash import dcc                                         # Creating Interactive Components
 from dash import html                                        # Allow for the use of HTML tags
+from dash import Dash
 import plotly.express as px                                  # Creating Interactive Plots
 #from pandas_datareader import wb                             # Used for importing data
 from dash.dependencies import Input, Output                  # Neccesary for interactivity in the app
@@ -270,7 +271,7 @@ tab2 = dbc.Tab(children = [card_name], label = "Bruker")
 
 # Creating a dash framework
 load_figure_template('litera')
-app = JupyterDash(external_stylesheets = [dbc.themes.LITERA, dbc_css])
+app = Dash(external_stylesheets = [dbc.themes.LITERA, dbc_css])
 server = app.server
 
 app.layout = dbc.Container(
