@@ -271,6 +271,7 @@ tab2 = dbc.Tab(children = [card_name], label = "Bruker")
 # Creating a dash framework
 load_figure_template('litera')
 app = JupyterDash(external_stylesheets = [dbc.themes.LITERA, dbc_css])
+server = app.server
 
 app.layout = dbc.Container(
     children = [
