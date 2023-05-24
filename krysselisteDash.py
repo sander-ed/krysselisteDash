@@ -1,11 +1,11 @@
 # These packages will be used in the project
 import pandas as pd                                          # Reading and Organizing Data
-import numpy as np                                           # Allow for easier number handling
+#import numpy as np                                           # Allow for easier number handling
 import dash                                                  # Running the Application
 from dash import dcc                                         # Creating Interactive Components
 from dash import html                                        # Allow for the use of HTML tags
 import plotly.express as px                                  # Creating Interactive Plots
-from pandas_datareader import wb                             # Used for importing data
+#from pandas_datareader import wb                             # Used for importing data
 from dash.dependencies import Input, Output                  # Neccesary for interactivity in the app
 import dash_bootstrap_components as dbc                      # Used for styling of application
 from dash_bootstrap_templates import load_figure_template    # Used for styling of
