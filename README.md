@@ -8,7 +8,7 @@ ved Norges Handelshøyskole. Alle navnene i datasettet er anonymisert, men obser
 Kryssesystemet går ut på at et medlem av gruppen kan ta diverse drikkevarer fra et kjøleskap på kontoret til gruppen, for å deretter
 skrive ned hva denne personen har tatt med seg. Dette skjer via et digitalt system, som der den totale regningen blir kalkulert på
 slutten av et gitt semester. Jeg syntes dette var et svært intressant datasett, så jeg scrapet det fra våre interne nettsider og
-konverterte det til en ``.csv` fil. 
+konverterte det til en `.csv` fil. 
 
 Dashboardet er utarbeidet ved bruk av offentlige ressurser, og teknikker lært i kurset **BAN438 - Application Development in Python**. 
 Pakkene som er nødvendig for å kjøre dashbordet er lagt ved i `requirements.txt` filen.
